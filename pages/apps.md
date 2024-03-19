@@ -13,17 +13,17 @@ permalink: /apps
 - [Регулировка звука на экране](#регулировка-звука-на-экране)
 
 ## Установка навигатора на ГУ
-Следуйте инструкции - https://t.me/CoolRay_Android_Develop/60764/119085
+Следуйте инструкции - [https://t.me/CoolRay_Android_Develop/60764/119085](https://t.me/CoolRay_Android_Develop/60764/119085)
 
 _[К оглавлению](#оглавление)_
 
 ## Установка и настройка Viper
 Viper включен в Community Full. 
-Для настройки следуйте видеоинструкции - https://t.me/CoolRay_Android_Develop/61363/67618
+Для настройки следуйте видеоинструкции - [https://t.me/CoolRay_Android_Develop/61363/67618](https://t.me/CoolRay_Android_Develop/61363/67618)
 
 _[К оглавлению](#оглавление)_
 
 ## Регулировка звука на экране
-Установите приложение - https://t.me/CoolRay_Android_Develop/76794/206296
+Установите приложение - [https://t.me/CoolRay_Android_Develop/76794/206296](https://t.me/CoolRay_Android_Develop/76794/206296)
 
 _[К оглавлению](#оглавление)_
