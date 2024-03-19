@@ -1,2 +1,2 @@
 # qttc.github.io
-Geely Coolray FAQ
+FAQ по вопросам установки Community для Geely Coolray SX11 non-rest

@@ -1,7 +1,7 @@
 ---
 title: Coolray FAQ
 ---
-[Test_page](/test_page1.md)
+[Test_page](/_pages/test_page1.md)
 
 # Coolray Community FAQ
 
