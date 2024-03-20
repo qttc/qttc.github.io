@@ -6,6 +6,11 @@ body {
     padding: 0;
     margin: 0;
     background-color: #fff;
+    height: 100%;
+}
+
+.content {
+    min-height: calc(100vh - 70px);
 }
 
 a {
@@ -111,4 +116,5 @@ footer {
     color: #333;
     text-align: center;
     padding: 1em 0;
+    height: 40px
 }
