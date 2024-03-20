@@ -1,6 +1,6 @@
 ---
 title: Техничка
-layout: page
+layout: default
 permalink: /parts
 
 ---
