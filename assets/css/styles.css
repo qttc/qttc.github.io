@@ -5,6 +5,7 @@
     max-width: 1012px;
     margin-right: auto;
     margin-left: auto;
+    margin-left: 220px;
 }
 .container img {
     max-width: 60%;
@@ -17,7 +18,28 @@
     /* Остальные стили для боковой панели и оглавления */
 }
 
-.container {
-    margin-left: 220px; /* Учитывайте ширину .sidebar */
-    /* Остальные стили для .container */
-}
+.toc {
+    position: fixed;
+    left: 0;
+    top: 50px; /* Регулируйте в соответствии с вашей шапкой или навигацией */
+    width: 200px; /* Ширина блока оглавления */
+    height: 100%;
+    overflow-y: auto;
+    background-color: #f9f9f9; /* Фон блока оглавления */
+    padding: 10px;
+  }
+  
+  .toc li {
+    list-style: none;
+  }
+  
+  .toc a {
+    text-decoration: none;
+    color: #000;
+    display: block;
+    padding: 2px 0;
+  }
+  
+  .toc a:hover {
+    text-decoration: underline;
+  }
