@@ -1,6 +1,6 @@
 ---
 title: Coolray FAQ
-layout: default
+layout: page
 ---
 
 # Coolray FAQ
