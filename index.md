@@ -6,4 +6,4 @@ layout: page
 # Coolray FAQ
 - [Community - где скачать, инструкции, октат](/pages/community.md)
 - [Приложения для ГУ](/pages/apps.md)
-- [Запчасти](/pages/parts.md)
+- [Техничка](/pages/parts.md)
