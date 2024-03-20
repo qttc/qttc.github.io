@@ -109,6 +109,11 @@ pre code {
     border: 0;
 }
 
+.container img {
+    max-width: 60%;
+    height: auto;
+}
+
 /* Фиксированный футер */
 footer {
     position: fixed;
@@ -119,5 +124,5 @@ footer {
     color: #333;
     text-align: center;
     padding: 1em 0;
-    height: 40px
+    height: 10px
 }
