@@ -11,6 +11,9 @@ body {
 
 .content {
     min-height: calc(100vh - 70px);
+    max-width: 1012px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 a {
