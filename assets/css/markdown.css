@@ -9,7 +9,7 @@ body {
     height: 100%;
 }
 
-.content {
+.container {
     min-height: calc(100vh - 70px);
     max-width: 1012px;
     margin-right: auto;
