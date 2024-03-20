@@ -10,17 +10,19 @@
 
     <div class="sidebar">
         <ul class="toc">
-            {% assign headings = content | split: '<h2' %}
-            {% for heading in headings %}
-              {% if forloop.first == false %}
-                {% assign heading_parts = heading | split: '</h2>' %}
-                {% assign heading_text = heading_parts[0] | strip_html | strip_newlines %}
-                {% assign heading_id = heading_text | slugify %}
-                <li>
-                  <a href="#{{ heading_id }}">{{ heading_text }}</a>
-                </li>
-              {% endif %}
-            {% endfor %}
+          {% assign headings = content | split: '<h2' %}
+          {% for heading in headings %}
+            {% if forloop.first == false %}
+              {% assign heading_parts = heading | split: '</h2>' %}
+              {% assign heading_text = heading_parts[0] | strip_html | strip_newlines %}
+              {% assign heading_id = heading_text | slugify %}
+              <li>
+                <a href="#{{ heading_id }}">{{ heading_text }}</a>
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
         </ul>
     </div>
 
