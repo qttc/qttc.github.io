@@ -8,8 +8,22 @@
 </head>
 <body>
 
+    <div class="sidebar">
+        <ul class="toc">
+        {% for header in page.content | split: '<h2' %}
+          {% if forloop.index > 1 %}
+            <li>
+              <a href="#{{ header | split: '">' | first | split: 'id="' | last }}">
+                {{ header | split: '</h2>' | first | split: '">' | last }}
+              </a>
+            </li>
+          {% endif %}
+        {% endfor %}
+        </ul>
+    </div>
+
     <div class="container">
-        {{ content }} <!-- Содержимое конкретной страницы -->
+        {{ content }} 
     </div>
 
     {% include footer.html %}

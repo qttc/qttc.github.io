@@ -10,3 +10,14 @@
     max-width: 60%;
     height: auto;
 }
+
+.sidebar {
+    float: left;
+    width: 200px; /* или другая ширина, которая вам нужна */
+    /* Остальные стили для боковой панели и оглавления */
+}
+
+.container {
+    margin-left: 220px; /* Учитывайте ширину .sidebar */
+    /* Остальные стили для .container */
+}
