@@ -7,9 +7,12 @@ body {
     margin: 0;
     background-color: #fff;
     height: 100%;
+    display: flex;
+    flex-direction: column;
 }
 
 .container {
+    flex: 1;
     min-height: calc(100vh - 70px);
     max-width: 1012px;
     margin-right: auto;
@@ -124,5 +127,5 @@ footer {
     color: #333;
     text-align: center;
     padding: 1em 0;
-    height: 10px
+    height: 24px
 }
