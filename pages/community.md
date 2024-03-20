@@ -8,9 +8,6 @@ permalink: /community
 На данной странице собраны ответы на самые популярные вопросы по прошивке Community
 
 #### Оглавление
-* 
-{:toc}
-
 ## О Communty
 - [Что такое Community?](#что-такое-community)
 - [Что обновится после установки Community Full?](#что-обновится-после-установки-community-full)
