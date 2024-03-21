@@ -5,8 +5,16 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/markdown.css">
     <link rel="stylesheet" href="/assets/css/styles.css">
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            document.querySelector('.sidebar-toggle').addEventListener('click', function() {
+                document.querySelector('.sidebar').classList.toggle('active');
+            });
+        });
+    </script>
 </head>
 <body>
+    <div class="sidebar-toggle">☰</div> <!-- Иконка для переключения -->
     <div class="sidebar">
         <ul class="toc">
           {% assign headings = content | split: '</h2>' %}
