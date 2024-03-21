@@ -7,11 +7,15 @@
     <link rel="stylesheet" href="/assets/css/styles.css">
     <script>
         document.addEventListener('DOMContentLoaded', function() {
-            document.querySelector('.sidebar-toggle').addEventListener('click', function() {
-                document.querySelector('.sidebar').classList.toggle('active');
+            var toggle = document.querySelector('.sidebar-toggle');
+            var sidebar = document.querySelector('.sidebar');
+        
+            toggle.addEventListener('click', function() {
+                sidebar.classList.toggle('active');
             });
         });
-    </script>
+        </script>
+        
 </head>
 <body>
     <div class="sidebar-toggle">☰</div> <!-- Иконка для переключения -->
