@@ -49,7 +49,7 @@
     cursor: pointer;
 }
 
-@media (max-width: 768px) { /* Например, для экранов шириной до 768px */
+@media (max-width: 2008px) { /* Например, для экранов шириной до 768px */
     .sidebar {
         position: fixed;
         left: -250px; /* Сайдбар изначально скрыт за левым краем экрана */
