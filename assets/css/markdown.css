@@ -11,13 +11,6 @@ body {
     flex-direction: column;
 }
 
-.container {
-    flex: 1;
-    min-height: calc(100vh - 70px);
-    max-width: 1012px;
-    margin-right: auto;
-    margin-left: auto;
-}
 
 a {
     color: #0366d6;
@@ -112,10 +105,6 @@ pre code {
     border: 0;
 }
 
-.container img {
-    max-width: 60%;
-    height: auto;
-}
 
 /* Фиксированный футер */
 footer {
