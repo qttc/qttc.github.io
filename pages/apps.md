@@ -1,6 +1,6 @@
 ---
 title: Приложения для ГУ
-layout: default
+layout: page
 permalink: /apps
 ---
 

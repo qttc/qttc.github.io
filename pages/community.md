@@ -1,6 +1,6 @@
 ---
 title: Community FAQ
-layout: default
+layout: page
 permalink: /community
 ---
 
