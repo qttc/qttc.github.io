@@ -2,7 +2,7 @@
 .container {
     flex: 1;
     min-height: calc(100vh - 70px);
-    max-width: 1012px;
+    max-width: 80%;
     margin-right: auto;
     margin-left: auto;
 }
@@ -11,10 +11,11 @@
     height: auto;
 }
 
-.sidebar {
-    float: left;
-    width: 200px; /* или другая ширина, которая вам нужна */
-    /* Остальные стили для боковой панели и оглавления */
+
+@media (max-width: 768px) {
+    .container {
+        max-width: 90%; /* На маленьких экранах пусть контейнер занимает всю ширину */
+    }
 }
 
 .toc {
@@ -42,8 +43,3 @@
   .toc a:hover {
     text-decoration: underline;
   }
-
-  .sidebar-toggle {
-   /* display: none; /* Скрыть иконку на десктопе */
-    cursor: pointer;
-}
