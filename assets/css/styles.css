@@ -48,21 +48,3 @@
    /* display: none; /* Скрыть иконку на десктопе */
     cursor: pointer;
 }
-
-@media (max-width: 768px) { /* Например, для экранов шириной до 768px */
-    .sidebar {
-        position: fixed;
-        left: -250px; /* Сайдбар изначально скрыт за левым краем экрана */
-        width: 250px;
-        height: 100%;
-        transition: left 0.3s; /* Анимация для плавного появления */
-    }
-
-    .sidebar-toggle {
-        display: block; /* Показать иконку на мобильных */
-    }
-
-    .sidebar.active {
-        left: 0; /* Сайдбар появляется, когда активен */
-    }
-}

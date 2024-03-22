@@ -5,44 +5,32 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/markdown.css">
     <link rel="stylesheet" href="/assets/css/styles.css">
-    <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            var toggle = document.querySelector('.sidebar-toggle');
-            var sidebar = document.querySelector('.sidebar');
-        
-            toggle.addEventListener('click', function() {
-                console.log('Clicked toggle'); // Для отладки
-                sidebar.classList.toggle('active');
-            });
-        });
-        </script>
         
 </head>
 <body>
-    <div class="sidebar-toggle">☰</div> <!-- Иконка для переключения -->
-    <div class="sidebar">
-        <ul class="toc">
-          {% assign headings = content | split: '</h2>' %}
-          {% for heading in headings %}
-            {% unless forloop.last %}
-              {% assign heading_parts = heading | split: '<h2' %}
-              {% assign heading_text_with_id = heading_parts[1] %}
-              {% if heading_text_with_id %}
-                {% assign id_start = heading_text_with_id | split: 'id="' %}
-                {% if id_start.size > 1 %}
-                  {% assign id_end = id_start[1] | split: '"' %}
-                  {% assign heading_id = id_end[0] %}
-                  {% assign heading_text = heading_text_with_id | split: '>' | last | split: '<' | first %}
-                  <li>
-                    <a href="#{{ heading_id }}">{{ heading_text }}</a>
-                  </li>
-                {% endif %}
+  <div class="sidebar">
+      <ul class="toc">
+        {% assign headings = content | split: '</h2>' %}
+        {% for heading in headings %}
+          {% unless forloop.last %}
+            {% assign heading_parts = heading | split: '<h2' %}
+            {% assign heading_text_with_id = heading_parts[1] %}
+            {% if heading_text_with_id %}
+              {% assign id_start = heading_text_with_id | split: 'id="' %}
+              {% if id_start.size > 1 %}
+                {% assign id_end = id_start[1] | split: '"' %}
+                {% assign heading_id = id_end[0] %}
+                {% assign heading_text = heading_text_with_id | split: '>' | last | split: '<' | first %}
+                <li>
+                  <a href="#{{ heading_id }}">{{ heading_text }}</a>
+                </li>
               {% endif %}
-            {% endunless %}
-          {% endfor %}
-        </ul>
-      </div>    
-      
+            {% endif %}
+          {% endunless %}
+        {% endfor %}
+      </ul>
+    </div>    
+
     <div class="container">
         {{ content }}
     </div>
