@@ -8,7 +8,7 @@ layout: page
 ------
 
 Здесь собрана полезная информация об автомобиле Geely Coolray (2019 - 2023) или Belgee X50 2023-2024.
-![1](assets/logo.png)
+![logo](assets/logo.png)
 
 **Навигация:**
 
