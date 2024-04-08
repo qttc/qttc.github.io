@@ -1,9 +1,9 @@
 ---
-title: Geely Coolray FAQ
+title: Главная страница
 layout: page
 ---
 
-## Geely Coolray
+# Geely Coolray
 
 ------
 
