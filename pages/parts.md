@@ -25,11 +25,11 @@ permalink: /parts
 ## Каталоги
 
 #### Запчасти (заказ)
-- [https://www.zzap.ru/](zzap)
-- [https://www.exist.ru/](exist)
-- [https://www.autodoc.ru/](autodoc)
-- [https://auto3n.ru/](auto3n)
-- [https://gettzap.ru/](gettzap)
+- [zzap](https://www.zzap.ru/)
+- [exist](https://www.exist.ru/)
+- [autodoc](https://www.autodoc.ru/)
+- [auto3n](https://auto3n.ru/)
+- [gettzap](https://gettzap.ru/)
 
 #### Онлайн каталог запчастей
 - [https://acat.online/catalogs/CARS_FOREIGN/GEELY/60751/](https://acat.online/catalogs/CARS_FOREIGN/GEELY/60751/)
