@@ -3,7 +3,7 @@ title: Geely Coolray FAQ
 layout: page
 ---
 
-# Geely Coolray FAQ
+## Geely Coolray
 
 ------
 
