@@ -1,9 +1,17 @@
 ---
-title: Coolray FAQ
+title: Главная страница
 layout: page
 ---
 
-# Coolray FAQ
+# Geely Coolray
+
+------
+
+Здесь собрана полезная информация об автомобиле Geely Coolray (2019 - 2023) или Belgee X50 2023-2024.
+![logo](assets/logo.png)
+
+**Навигация:**
+
 - [Community - где скачать, инструкции, октат](/pages/community.md)
 - [Приложения для ГУ](/pages/apps.md)
 - [Carplay](/pages/carlinkit.md)
