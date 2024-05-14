@@ -71,6 +71,9 @@ permalink: /parts
 [Фильтр Воздушный Geely Coolray 2032040500](https://ozon.ru/t/RowNPLL)
 [Фильтр топливный GEELY 2013021700](https://ozon.ru/t/nYRd3AL)
 
+### Таблица цветов (коды краски)
+![ЛКП](../assets/LKP.jpeg)
+
 ---
 ## Проблемы
 
