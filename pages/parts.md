@@ -36,15 +36,21 @@ permalink: /parts
 - [https://acat.online/catalogs/CARS_FOREIGN/GEELY/60751/](https://acat.online/catalogs/CARS_FOREIGN/GEELY/60751/)
 - [https://hot-parts.ru/catalog/19204/](https://hot-parts.ru/catalog/19204/)
 
+------
+
 #### PDF Документы
+
 Большой каталог с номерами запчастей и картинками.
-Найдено в интернете.
 
 - [Каталог кодов запчастей](https://qttc.github.io/assets/pdf/catalog_parts.pdf)
-- [Электрические_схемы](https://qttc.github.io/assets/pdf/Принципиальные_электрические_схемы_GEELY_Coolray_SX11.pdf)
-- [Service_Manual](https://qttc.github.io/assets/pdf/Service_Manual_2019.pdf)
-- [Engine_Manual](https://qttc.github.io/assets/pdf/Engine_Manual_2019.pdf)
 
+Руководство по ремонту содержит технические характеристики и информацию по диагностике и ремонту модели Geely Coolray
+
+- [Электрические схемы](https://qttc.github.io/assets/pdf/Принципиальные_электрические_схемы_GEELY_Coolray_SX11.pdf)
+- [Service Manual](https://qttc.github.io/assets/pdf/Service_Manual_2019.pdf)
+- [Engine Manual](https://qttc.github.io/assets/pdf/Engine_Manual_2019.pdf)
+
+------
 
 ## Запчасти
 
