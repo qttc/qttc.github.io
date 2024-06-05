@@ -21,6 +21,7 @@ permalink: /parts
 | Салонный фильтр                                       | RST014         |
 | Фильтр воздушный                                      | AF018          |
 | Прокладка сливной пробки масл. поддона                | 1056020700     |
+| Антифриз                                              | G12            |
 
 ## Каталоги
 
@@ -69,6 +70,9 @@ permalink: /parts
 [Масляный фильтр GEELY COOLRAY SX11 / Geely Atlas PRO 1056022300](https://ozon.ru/t/dkNG3XJ )
 [Фильтр Воздушный Geely Coolray 2032040500](https://ozon.ru/t/RowNPLL)
 [Фильтр топливный GEELY 2013021700](https://ozon.ru/t/nYRd3AL)
+
+### Таблица цветов (коды краски)
+![ЛКП](../assets/LKP.jpeg)
 
 ---
 ## Проблемы
