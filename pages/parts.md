@@ -14,19 +14,25 @@ permalink: /parts
 
 Зарекомендовавший себя набор запчастей, так сказать бери и не думай.
 
-| Наименование запчасти                                 | Номер                      |
-|-------------------------------------------------------|----------------------------|
-| Фильтр масляный                                       | SCT SH4823P                |
-| MANNOL Масло моторное LEGEND FORMULA C5 0W-20         | MN7921-5 и MN7921-1        |
-| Салонный фильтр                                       | RST014                     |
-| Фильтр воздушный                                      | AF018                      |
-| Прокладка сливной пробки масл. поддона                | 1056020700                 |
-| Антифриз                                              | G12                        |
-| G-Energy Synthetic Eco Life 0W-20 1L                  | 253140709                  |
-| G-Energy Synthetic Eco Life 0W-20 4L                  | 253140711                  |
-| Lopal 1 Advanced Fully Synthetic Series SP 0W-20 1L   | LP0W20AFS1L                |
-| Lopal 1 Advanced Fully Synthetic Series SP 0W-20 4L   | LP0W20AFS4L                |
-| Petrol Ofisi MAXIMA HYBRID 0W-20                      | 400000419                  |
+| Наименование запчасти                               | Номер               |
+| --------------------------------------------------- | ------------------- |
+| Фильтр масляный                                     | SCT SH4823P         |
+| Салонный фильтр                                     | RST014              |
+| Фильтр воздушный                                    | AF018               |
+| Прокладка сливной пробки масл. поддона              | 1056020700          |
+| Антифриз                                            | G12                 |
+| **Масло для двигателя**                             |                     |
+| Lopal 1 Advanced Fully Synthetic Series SP 0W-20 1L | LP0W20AFS1L         |
+| Lopal 1 Advanced Fully Synthetic Series SP 0W-20 4L | LP0W20AFS4L         |
+| MANNOL Масло моторное LEGEND FORMULA C5 0W-20       | MN7921-5 и MN7921-1 |
+| G-Energy Synthetic Eco Life 0W-20 1L                | 253140709           |
+| G-Energy Synthetic Eco Life 0W-20 4L                | 253140711           |
+| **Масло для РКПП**                                  |                     |
+| Shell Spirax S5 DCT 10                              | 55004597301         |
+| Motul High Torque DCTF                              | 110440              |
+| RAVENOL DCT-DSG LV Fluid                            | 1212107             |
+| ЛУКОЙЛ DCTF                                         | 3261423             |
+| Petrol Ofisi MAXIMA HYBRID 0W-20                    | 400000419           |
 
 
 ## Каталоги
