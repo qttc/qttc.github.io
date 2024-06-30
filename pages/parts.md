@@ -24,6 +24,8 @@ permalink: /parts
 | **Масло для двигателя**                             |                     |
 | Lopal 1 Advanced Fully Synthetic Series SP 0W-20 1L | LP0W20AFS1L         |
 | Lopal 1 Advanced Fully Synthetic Series SP 0W-20 4L | LP0W20AFS4L         |
+| Valvoline SYNPOWER FE 0W-20 5л                      | 872584              |
+| Valvoline SYNPOWER FE 0W-20 1л                      | 872583              |
 | MANNOL Масло моторное LEGEND FORMULA C5 0W-20       | MN7921-5 и MN7921-1 |
 | Petrol Ofisi MAXIMA HYBRID 0W-20                    | 400000419           |
 | G-Energy Synthetic Eco Life 0W-20 1L                | 253140709           |
