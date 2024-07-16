@@ -16,6 +16,7 @@ layout: page
 - [Приложения для ГУ](/pages/apps.md)
 - [Carplay](/pages/carlinkit.md)
 - [Техничка](/pages/parts.md)
+- [Проблемы и решения](/pages/problems.md)
 
 
 
