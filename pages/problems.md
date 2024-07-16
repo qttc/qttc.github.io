@@ -1,7 +1,7 @@
 ---
 title: Проблемы и решения
 layout: page
-permalink: /apps
+permalink: /problems
 ---
 
 # Проблемы и решения
