@@ -55,7 +55,7 @@ permalink: /parts
 - [gettzap](https://gettzap.ru/)
 
 #### Онлайн каталог запчастей
-- [https://acat.online/catalogs/CARS_FOREIGN/GEELY/60751/](https://acat.online/catalogs/CARS_FOREIGN/GEELY/60751/)
+- [https://acat.online/catalogs/CARS_FOREIGN/GEELY/60751/null](https://acat.online/catalogs/CARS_FOREIGN/GEELY/60751/null)
 - [https://hot-parts.ru/catalog/19204/](https://hot-parts.ru/catalog/19204/)
 
 ------
