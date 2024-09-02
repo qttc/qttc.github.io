@@ -40,10 +40,12 @@ permalink: /parts
 | RAVENOL EHS 0W-20 4л                                   | 1111113             |
 | LUKOIL GENESIS SPECIAL VL 0W-20 1л                     | 1702475             |
 | **Масло для РКПП**                                     |                     |
+|--------------------------------------------------------|---------------------|
 | Shell Spirax S5 DCT 10                                 | 55004597301         |
 | Motul High Torque DCTF                                 | 110440              |
 | RAVENOL DCT-DSG LV Fluid                               | 1212107             |
 | ЛУКОЙЛ DCTF (или любое другое DCTF)                    | 3261423             |
+| LUKOIL DCTF FE 1 л                                     | 3695910             |
 
 ## Колодки и диски в круг
 
