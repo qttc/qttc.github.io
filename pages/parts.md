@@ -70,8 +70,9 @@ permalink: /parts
 - [gettzap](https://gettzap.ru/)
 
 #### Онлайн каталог запчастей
-- [https://acat.online/catalogs/CARS_FOREIGN/GEELY/60751/null](https://acat.online/catalogs/CARS_FOREIGN/GEELY/60751/null)
-- [https://hot-parts.ru/catalog/19204/](https://hot-parts.ru/catalog/19204/)
+- [https://acat.online](https://acat.online/catalogs/CARS_FOREIGN/GEELY/60751/null)
+- [https://hot-parts.ru](https://hot-parts.ru/catalog/19204/)
+- [китайавто.рус](https://китайавто.рус/catalog/geely/87de53f0cf06ed651237f5c28aa9a774)
 
 ------
 
@@ -158,7 +159,6 @@ permalink: /parts
 
 Очень насущная проблема у Кулрея — это передние тормозные диски. В среднем к 20 тыс пробега они начинают бить.
 [Ссылка на Drive](https://www.drive2.ru/l/663420578262173512/)
-
 
 
 ## Китайское ГУ 
