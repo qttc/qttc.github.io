@@ -42,13 +42,15 @@ permalink: /parts
 
 ## Масло для коробки
 
-| **Масло для РКПП**                                     |                     |
+| **Масло для РКПП**                                     | Артикул             |
 |--------------------------------------------------------|---------------------|
-| Shell Spirax S5 DCT 10                                 | 55004597301         |
-| Motul High Torque DCTF                                 | 110440              |
-| RAVENOL DCT-DSG LV Fluid                               | 1212107             |
-| ЛУКОЙЛ DCTF (или любое другое DCTF)                    | 3261423             |
-| LUKOIL DCTF FE 1 л                                     | 3695910             |
+| Shell Spirax S5 DCT 10                                 | 55004597301        |
+| Hitatsu DCT/DSG MULTI LV                               | ATFDCT4 / ATFDCT1 |
+| Motul High Torque DCTF                                 | 110440             |
+| RAVENOL DCT-DSG LV Fluid                               | 1212107            |
+| ЛУКОЙЛ DCTF (или любое другое DCTF)                    | 3261423            |
+| LUKOIL DCTF FE 1 л                                     | 3695910            |
+
 
 ## Колодки и диски в круг
 
