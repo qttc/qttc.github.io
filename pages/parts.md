@@ -49,7 +49,7 @@ permalink: /parts
 | Motul High Torque DCTF                                 | 110440             |
 | RAVENOL DCT-DSG LV Fluid                               | 1212107            |
 | ЛУКОЙЛ DCTF (или любое другое DCTF)                    | 3261423            |
-| LUKOIL DCTF FE 1л                                   | 3695910            |
+| LUKOIL DCTF FE                                   | 3695910 / 3695912 |
 
 
 ## Колодки и диски в круг
