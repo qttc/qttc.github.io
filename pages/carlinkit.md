@@ -66,3 +66,11 @@ permalink: /carlinkit
 
 ------
 
+### APK и прошивки
+
+https://www.carlinkit.com/autokit.html
+
+https://github.com/den67rus/Carlinkit-CPC200-Autokit-Firmware/tree/main/Firmware
+
+
+
