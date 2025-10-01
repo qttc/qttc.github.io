@@ -3,6 +3,10 @@ description: Coolray X50 Wiki
 permalink: /:title/
 baseurl: ""
 
+lang: ru
+locale: ru_RU
+title_separator: " — "
+
 # Path
 includes_dir: _includes
 layouts_dir: _layouts
