@@ -1,5 +1,5 @@
 ---
-title: Техничка — запчасти, масла и каталоги
+title: Техничка запчасти
 layout: page
 permalink: /pages/parts/
 description: Номера запчастей и проверенные аналоги, рекомендуемые масла, каталоги и PDF-руководства для Geely Coolray/Belgee X50.

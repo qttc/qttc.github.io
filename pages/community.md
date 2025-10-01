@@ -1,5 +1,5 @@
 ---
-title: "Community — где скачать, как установить и как откатить изменения"
+title: "Community инструкция"
 layout: page
 permalink: /pages/community/
 description: "Пошаговые инструкции по Community для Geely Coolray/Belgee X50: где скачать, как установить и как откатить изменения. Ответы на частые вопросы, выбор флешки/порта и работа с телеграм-ботом."
