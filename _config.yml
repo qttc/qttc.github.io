@@ -1,4 +1,6 @@
-title: Coolray FAQ
+title: Coolray X50 Wiki
+permalink: /:title/
+baseurl: ""
 
 # Path
 includes_dir: _includes
