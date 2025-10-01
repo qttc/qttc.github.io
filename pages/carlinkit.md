@@ -1,7 +1,7 @@
 ---
 title: CarPlay / Carlinkit — подключение, версии и быстрые решения
 layout: page
-permalink: /carlinkit/
+permalink: /pages/carlinkit/
 description: Как подключить CarPlay/Carlinkit на дорестайлинговых моделях, какие версии донглов бывают, где купить и как устранить типовые проблемы.
 ---
 
