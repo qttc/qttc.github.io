@@ -5,7 +5,7 @@ baseurl: ""
 
 lang: ru
 locale: ru_RU
-title_separator: " — "
+title_separator: " â€” "
 
 # Path
 includes_dir: _includes
