@@ -70,9 +70,8 @@ description: Как подключить CarPlay/Carlinkit на дорестай
 
 ### APK и прошивки
 
-https://www.carlinkit.com/autokit.html
-
-https://github.com/den67rus/Carlinkit-CPC200-Autokit-Firmware/tree/main/Firmware
+[carlinkit.com](https://www.carlinkit.com/autokit.html)
+[Firmware](https://github.com/den67rus/Carlinkit-CPC200-Autokit-Firmware/tree/main/Firmware)
 
 
 
