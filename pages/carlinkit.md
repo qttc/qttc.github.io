@@ -3,6 +3,7 @@ title: CarPlay / Carlinkit
 layout: page
 permalink: /pages/carlinkit/
 description: Как подключить CarPlay/Carlinkit на дорестайлинговых моделях, какие версии донглов бывают, где купить и как устранить типовые проблемы.
+image: /assets/logo.png
 ---
 
 # Carplay / Android Auto для доресталинговых моделей

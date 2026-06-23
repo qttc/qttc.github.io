@@ -1,11 +1,27 @@
 title: Coolray X50 Wiki
-description: Coolray X50 Wiki
-permalink: /:title/
+description: "Вики для владельцев Geely Coolray / Belgee X50: прошивки Community и откат, приложения для головного устройства, CarPlay/Carlinkit, каталоги запчастей, масла и решения частых проблем."
+url: "https://qttc.github.io"
 baseurl: ""
 
 lang: ru
 locale: ru_RU
 title_separator: " — "
+
+author: Coolray X50 Wiki
+
+# SEO (jekyll-seo-tag)
+logo: /assets/logo.png
+image: /assets/logo.png
+twitter:
+  card: summary_large_image
+social:
+  name: Coolray X50 Wiki
+  links:
+    - https://t.me/CoolRay_Android_Develop
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Path
 includes_dir: _includes
