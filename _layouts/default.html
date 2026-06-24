@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'ru' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  {% include head-custom.html %}
+</head>
+<body>
+  <a class="skip-link" href="#content">К содержанию</a>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="{{ '/' | relative_url }}">Coolray X50&nbsp;<span>Wiki</span></a>
+      {% assign nav = "/,Главная|/pages/community/,Прошивки|/pages/apps/,Приложения|/pages/carlinkit/,CarPlay|/pages/parts/,Техничка|/pages/problems/,Проблемы" | split: "|" %}
+      <nav class="site-nav" aria-label="Разделы">
+        {% for item in nav %}
+          {% assign parts = item | split: "," %}
+          {% assign url = parts[0] %}
+          {% if page.url == url %}{% assign cls = "active" %}{% else %}{% assign cls = "" %}{% endif %}
+          <a href="{{ url | relative_url }}" class="{{ cls }}"{% if page.url == url %} aria-current="page"{% endif %}>{{ parts[1] }}</a>
+        {% endfor %}
+      </nav>
+    </div>
+  </header>
+
+  <main id="content" class="container content">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>Coolray X50 Wiki — материалы владельцев Geely Coolray / Belgee X50.</p>
+      <p><a href="https://t.me/CoolRay_Android_Develop">Telegram-сообщество</a></p>
+    </div>
+  </footer>
+</body>
+</html>
