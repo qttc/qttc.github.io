@@ -5,3 +5,15 @@
 
 {% seo %}
 <meta property="og:locale" content="{{ site.locale }}">
+
+<style>
+  /* Авто-оглавление ({:toc}). Все правила привязаны только к #markdown-toc —
+     id, который kramdown ставит исключительно на список оглавления, поэтому
+     остальной контент страницы (заголовки, списки, ссылки) не затрагивается. */
+  #markdown-toc { list-style: none; padding-left: 0; }
+  #markdown-toc > li { margin-top: .9em; }
+  #markdown-toc > li:first-child { margin-top: 0; }
+  #markdown-toc > li > a { font-weight: 700; font-size: 1.06em; }
+  #markdown-toc ul { list-style: disc; padding-left: 1.3em; margin: .3em 0 .1em; }
+  #markdown-toc ul a { font-weight: 400; }
+</style>

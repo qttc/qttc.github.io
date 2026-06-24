@@ -7,6 +7,10 @@ lang: ru
 locale: ru_RU
 title_separator: " — "
 
+# Авто-оглавление через kramdown ({:toc}); только разделы и подразделы
+kramdown:
+  toc_levels: 2..3
+
 author: Coolray X50 Wiki
 
 # SEO (jekyll-seo-tag)
