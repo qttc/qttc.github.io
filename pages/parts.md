@@ -12,11 +12,13 @@ image: /assets/parts.png
 
 ![Каталог запчастей и расходников для Geely Coolray / Belgee X50](../assets/parts.png)
 
+<nav class="toc" id="оглавление" markdown="1">
 #### Оглавление
-{:.no_toc}
+{:.no_toc .toc-title}
 
 * TOC
 {:toc}
+</nav>
 
 ## Быстрый набор
 
