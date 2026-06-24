@@ -12,12 +12,6 @@ image: /assets/logo.png
 
 ![Логотип сообщества Geely Coolray](/assets/logo.png)
 
-#### Оглавление
-{:.no_toc}
-
-* TOC
-{:toc}
-
 ## Для каких машин
 
 Сайт о **дорестайлинговых** Geely Coolray и Belgee X50:
