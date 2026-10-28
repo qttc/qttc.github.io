@@ -2,7 +2,7 @@
 title: "Приложения для ГУ"
 layout: page
 permalink: /pages/apps/
-description: "Полезные приложения для головного устройства: навигатор, Viper, регулировка звука. Короткие инструкции по установке и настройке APK."
+description: "Полезные приложения для головного устройства: навигатор, Viper, регулировка звука, CarPlay без донгла. Короткие инструкции по установке и настройке APK."
 image: /assets/logo.png
 ---
 
@@ -31,6 +31,14 @@ _[К оглавлению](#оглавление)_
 
 ## Регулировка звука на экране
 Установите приложение - [https://t.me/CoolRay_Android_Develop/76794/206296](https://t.me/CoolRay_Android_Develop/76794/206296)
+
+_[К оглавлению](#оглавление)_
+
+## CarPlay без донгла (coorlay)
+Экспериментальное приложение: CarPlay на штатной магнитоле по USB и без провода, без коробки Carlinkit. Подробности и ограничения — на странице [CarPlay / Carlinkit](/pages/carlinkit/#carplay-без-донгла--coorlay-эксперимент).
+
+🌐 Сайт и скачивание: [otnep.github.io/coorlay](https://otnep.github.io/coorlay/)  
+💻 Исходный код: [github.com/otnep/coorlay](https://github.com/otnep/coorlay)
 
 _[К оглавлению](#оглавление)_
 

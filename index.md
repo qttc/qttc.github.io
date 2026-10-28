@@ -1,5 +1,5 @@
 ---
-title: "Главная"
+title: "Geely Coolray / Belgee X50: прошивки, CarPlay, запчасти"
 layout: page
 permalink: /
 description: "Всё для владельцев Geely Coolray / Belgee X50: где скачать прошивки и как сделать откат, приложения для головного устройства, CarPlay/Carlinkit, каталоги запчастей и инструкции по типовым проблемам."

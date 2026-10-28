@@ -16,8 +16,6 @@ author: Coolray X50 Wiki
 # SEO (jekyll-seo-tag)
 logo: /assets/logo.png
 image: /assets/logo.png
-twitter:
-  card: summary_large_image
 social:
   name: Coolray X50 Wiki
   links:
