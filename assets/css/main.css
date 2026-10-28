@@ -172,3 +172,8 @@ pre code { background: none; padding: 0; }
   margin-top: 40px; padding: 28px 0 34px; color: var(--muted); font-size: .92rem;
 }
 .site-footer p { margin: .3em 0; }
+
+/* --- Хлебные крошки --- */
+.breadcrumbs { font-size: .85rem; color: var(--muted); margin: 0 0 1em; }
+.breadcrumbs a { color: var(--muted); }
+.breadcrumbs a:hover { color: var(--accent); }

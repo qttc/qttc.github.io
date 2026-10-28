@@ -1,0 +1,15 @@
+{% comment %}FAQPage из готового HTML: вопрос — каждый <h3> со знаком «?», ответ — текст до ссылки «К оглавлению»{% endcomment %}
+{% assign sections = include.html | split: "<h3" %}
+{% assign first = true %}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
+{% for s in sections offset:1 %}
+  {% assign q = s | split: "</h3>" | first | split: ">" | last | strip %}
+  {% assign a = s | split: "</h3>" | last | split: "К оглавлению" | first | replace: "<", " <" | strip_html | split: " " | join: " " | truncate: 1500 %}
+  {% unless q contains "?" %}{% continue %}{% endunless %}
+  {% if a == "" %}{% continue %}{% endif %}
+  {% unless first %},{% endunless %}{% assign first = false %}
+  {"@type":"Question","name":{{ q | jsonify }},"acceptedAnswer":{"@type":"Answer","text":{{ a | jsonify }}}}
+{% endfor %}
+]}
+</script>

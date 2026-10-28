@@ -1,0 +1,15 @@
+{% comment %}Короткое имя раздела берём из меню, иначе — title страницы{% endcomment %}
+{% assign crumb = page.title %}
+{% for item in include.nav %}
+  {% assign parts = item | split: "," %}
+  {% if parts[0] == page.url %}{% assign crumb = parts[1] %}{% endif %}
+{% endfor %}
+<nav class="breadcrumbs" aria-label="Хлебные крошки">
+  <a href="{{ '/' | relative_url }}">Главная</a> <span aria-hidden="true">›</span> <span aria-current="page">{{ crumb }}</span>
+</nav>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+  {"@type":"ListItem","position":1,"name":"Главная","item":{{ '/' | absolute_url | jsonify }}},
+  {"@type":"ListItem","position":2,"name":{{ crumb | jsonify }},"item":{{ page.url | absolute_url | jsonify }}}
+]}
+</script>

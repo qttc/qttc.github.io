@@ -25,7 +25,9 @@
   </header>
 
   <main id="content" class="container content">
+    {% if page.url != "/" %}{% include breadcrumbs.html nav=nav %}{% endif %}
     {{ content }}
+    {% if page.faq %}{% include faq-jsonld.html html=content %}{% endif %}
   </main>
 
   <footer class="site-footer">
