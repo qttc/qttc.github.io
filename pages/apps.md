@@ -44,7 +44,7 @@ _[К оглавлению](#оглавление)_
 _[К оглавлению](#оглавление)_
 
 ## CarPlay без донгла (coorlay)
-Экспериментальное приложение: CarPlay на штатной магнитоле по USB и без провода, без коробки Carlinkit. Подробности и ограничения — на странице [CarPlay / Carlinkit](/pages/carlinkit/#carplay-без-донгла--coorlay-эксперимент).
+Экспериментальное приложение: CarPlay на штатной магнитоле по USB и без провода, без коробки Carlinkit. Возможности, совместимость и установка — на странице [CarPlay без донгла](/pages/carplay-no-dongle/).
 
 🌐 Сайт и скачивание: [otnep.github.io/coorlay](https://otnep.github.io/coorlay/)  
 💻 Исходный код: [github.com/otnep/coorlay](https://github.com/otnep/coorlay)

@@ -1,15 +1,20 @@
-{% comment %}Короткое имя раздела берём из меню, иначе — title страницы{% endcomment %}
-{% assign crumb = page.title %}
+{% comment %}Имена разделов берём из меню; page.parent — URL раздела-родителя, page.crumb — короткое имя страницы{% endcomment %}
+{% assign crumb = page.crumb | default: page.title %}
+{% assign parent_name = nil %}
 {% for item in include.nav %}
   {% assign parts = item | split: "," %}
   {% if parts[0] == page.url %}{% assign crumb = parts[1] %}{% endif %}
+  {% if page.parent and parts[0] == page.parent %}{% assign parent_name = parts[1] %}{% endif %}
 {% endfor %}
 <nav class="breadcrumbs" aria-label="Хлебные крошки">
-  <a href="{{ '/' | relative_url }}">Главная</a> <span aria-hidden="true">›</span> <span aria-current="page">{{ crumb }}</span>
+  <a href="{{ '/' | relative_url }}">Главная</a> <span aria-hidden="true">›</span>
+  {% if parent_name %}<a href="{{ page.parent | relative_url }}">{{ parent_name }}</a> <span aria-hidden="true">›</span>{% endif %}
+  <span aria-current="page">{{ crumb }}</span>
 </nav>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
   {"@type":"ListItem","position":1,"name":"Главная","item":{{ '/' | absolute_url | jsonify }}},
-  {"@type":"ListItem","position":2,"name":{{ crumb | jsonify }},"item":{{ page.url | absolute_url | jsonify }}}
+  {% if parent_name %}{"@type":"ListItem","position":2,"name":{{ parent_name | jsonify }},"item":{{ page.parent | absolute_url | jsonify }}},{% endif %}
+  {"@type":"ListItem","position":{% if parent_name %}3{% else %}2{% endif %},"name":{{ crumb | jsonify }},"item":{{ page.url | absolute_url | jsonify }}}
 ]}
 </script>
