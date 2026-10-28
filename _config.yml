@@ -14,6 +14,8 @@ kramdown:
 author: Coolray X50 Wiki
 
 # SEO (jekyll-seo-tag)
+webmaster_verifications:
+  google: f8rEymDB4VnmjnuwIVOBfzUtVO3sA2EqenlEly6EEcg
 logo: /assets/logo.png
 image: /assets/logo.png
 social:
