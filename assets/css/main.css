@@ -177,3 +177,7 @@ pre code { background: none; padding: 0; }
 .breadcrumbs { font-size: .85rem; color: var(--muted); margin: 0 0 1em; }
 .breadcrumbs a { color: var(--muted); }
 .breadcrumbs a:hover { color: var(--accent); }
+
+/* --- Сводная таблица вверху страницы --- */
+.content table.summary { border-left: 3px solid var(--accent); }
+.content table.summary td:first-child { white-space: nowrap; }
