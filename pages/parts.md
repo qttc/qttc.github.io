@@ -10,11 +10,11 @@ image: /assets/parts.png
 
 Собраны основные позиции запчастей — и для планового ТО, и для других работ — с номерами и аналогами; даны рекомендации по маслам для двигателя и коробки и ссылки на каталоги и PDF-руководства по ремонту и электросхемам.
 
-![Каталог запчастей и расходников для Geely Coolray / Belgee X50](/assets/parts.png)
+![Каталог запчастей и расходников для Geely Coolray / Belgee X50](/assets/parts.png){: width="300" height="197"}
 
 <nav class="toc" id="оглавление" markdown="1">
-#### Оглавление
-{:.no_toc .toc-title}
+## Оглавление
+{:.no_toc .toc-title #toc-title}
 
 * TOC
 {:toc}
@@ -83,21 +83,21 @@ image: /assets/parts.png
 
 ## Каталоги
 
-#### Запчасти (заказ)
+### Запчасти (заказ)
 - [zzap](https://www.zzap.ru/)
 - [exist](https://www.exist.ru/)
 - [autodoc](https://www.autodoc.ru/)
 - [auto3n](https://auto3n.ru/)
 - [gettzap](https://gettzap.ru/)
 
-#### Онлайн каталог запчастей
+### Онлайн каталог запчастей
 - [https://acat.online](https://acat.online/catalogs/CARS_FOREIGN/GEELY/60751/null)
 - [https://hot-parts.ru](https://hot-parts.ru/catalog/19204/)
 - [китайавто.рус](https://китайавто.рус/catalog/geely/87de53f0cf06ed651237f5c28aa9a774)
 
 ------
 
-#### PDF Документы
+### PDF Документы
 
 Большой каталог с номерами запчастей и картинками.
 
@@ -134,7 +134,7 @@ image: /assets/parts.png
 
 ### Таблица цветов (коды краски)
 
-![Таблица цветов и коды краски (ЛКП) Geely Coolray / Belgee X50](/assets/LKP.jpeg)
+![Таблица цветов и коды краски (ЛКП) Geely Coolray / Belgee X50](/assets/LKP.jpeg){: width="446" height="809" loading="lazy"}
 
 
 
