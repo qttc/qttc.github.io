@@ -64,7 +64,7 @@ image: /assets/logo.png
 
 
 ## Форсунки омывателя
-**Обратный клапан:** **8532126020**  
+**Обратный клапан:** оригинал Geely **6025023800**, аналог Toyota **8532126020**  
 Подробнее: [Drive2](https://www.drive2.ru/parts/toyota-lexus/8532126020/B9bjwEAAGmM)
 
 
