@@ -51,6 +51,8 @@ image: /assets/logo.png
 1. Скачайте и установите свежую версию Autokit через ES проводник ([APK 2024.04.29 RU в чате](https://t.me/CoolRay_Android_Develop/462284)).
 2. Настройте Autokit согласно инструкции к коробочке.
 
+🎛️ Как настроить кнопки руля для переключения в AutoKit — [видео в чате](https://t.me/CoolRay_Android_Develop/76794/313523).
+
 ### 2. Если Community еще не установлен, но вам нужен только Autokit (без доп улучшений).
 
 0. Скачайте пакет [Community Lite](/pages/community/#облегченные-версии-community)
