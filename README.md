@@ -8,6 +8,7 @@
 
 ## Разделы
 - [Сообщество и прошивки](https://qttc.github.io/pages/community/)
+  - [Вернуть заводскую прошивку](https://qttc.github.io/pages/rollback/)
 - [Приложения для ГУ](https://qttc.github.io/pages/apps/)
 - [CarPlay / Carlinkit](https://qttc.github.io/pages/carlinkit/)
   - [CarPlay без донгла (coorlay)](https://qttc.github.io/pages/carplay-no-dongle/)
