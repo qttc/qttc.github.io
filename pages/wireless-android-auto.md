@@ -15,7 +15,7 @@ image: /assets/logo.png
 
 ⚠️ **Только для старой магнитолы** на Android 4.3 — дорестайлинговые Coolray и Belgee X50. На новые ГУ на Android 9 (бело-синий интерфейс) не подходит.
 
-📦 Архив `coolray_5ghz_fix_v1.1.zip` — [в Telegram-чате](https://t.me/CoolRay_Android_Develop/70989/464341)
+📦 Архив `coolray_5ghz_fix_v1.1.zip` (9 МБ) — [скачать с сайта](/assets/files/coolray_5ghz_fix_v1.1.zip) или [в Telegram-чате](https://t.me/CoolRay_Android_Develop/70989/464341)
 
 <nav class="toc" id="оглавление" markdown="1">
 ## Оглавление
@@ -160,7 +160,7 @@ _[К оглавлению](#оглавление)_
 
 Патч Wi‑Fi и OH Coolray — любительские, распространяются «как есть», всё делается на свой риск. Изменение системных файлов может стать причиной отказа в гарантии на ГУ — перед визитом к дилеру лучше сделать откат. Не отвлекайтесь на экран во время движения.
 
-💬 Архив и обсуждение — [в Telegram-чате](https://t.me/CoolRay_Android_Develop/70989/464341).
+💬 Обсуждение и новые версии архива — [в Telegram-чате](https://t.me/CoolRay_Android_Develop/70989/464341). Версия 1.1 — также [на сайте](/assets/files/coolray_5ghz_fix_v1.1.zip).
 
 _[К оглавлению](#оглавление)_
 
