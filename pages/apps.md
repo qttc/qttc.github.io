@@ -1,5 +1,5 @@
 ---
-title: "Приложения для ГУ Geely Coolray / Belgee X50"
+title: "Приложения для ГУ Geely Coolray / Belgee X50: установка, Viper, Android Auto"
 layout: page
 permalink: /pages/apps/
 description: "Приложения для ГУ Geely Coolray / Belgee X50: Яндекс Навигатор и Музыка, Android Auto (OHU, HUR, AutoKit), голосовой ассистент, Viper, регулятор громкости, ES Проводник, CarPlay без донгла."
@@ -8,7 +8,7 @@ image: /assets/logo.png
 
 # Приложения для ГУ Geely Coolray / Belgee X50
 
-Подборка проверенных приложений: навигатор и Яндекс.Музыка, Android Auto, Viper, регулировка звука и CarPlay без коробки.
+Как установить приложения на магнитолу Geely Coolray / Belgee X50 (Android 4.3) и какие из них работают: навигатор и Яндекс.Музыка, Android Auto, настройка звука в Viper FX, регулятор громкости и CarPlay без коробки.
 
 <nav class="toc" id="оглавление" markdown="1">
 ## Оглавление
@@ -55,7 +55,7 @@ _[К оглавлению](#оглавление)_
 
 _[К оглавлению](#оглавление)_
 
-## Установка и настройка Viper
+## Настройка Viper FX (ViPER4Android)
 Эквалайзер ViPER4Android FX v2.4.0.1 уже входит в [Community Full](/pages/community/#что-обновится-после-установки-community-full): ставится как системное приложение вместе с набором профилей, драйвер регистрируется автоматически, root-доступ не нужен.
 
 Как настроить звук в Viper — [видеоинструкция «Настройка ViperFX»](https://t.me/CoolRay_Android_Develop/61363/67618).
