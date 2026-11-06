@@ -1,17 +1,19 @@
 ---
-title: "Беспроводной Android Auto на Geely Coolray без адаптера: Wi‑Fi 5 ГГц и OH Coolray"
+title: "Беспроводной Android Auto без адаптера на Geely Coolray / Belgee X50 (старое ГУ)"
 layout: page
 permalink: /pages/wireless-android-auto/
 parent: /pages/apps/
 crumb: "Беспроводной Android Auto"
 faq: true
-description: "Как запустить беспроводной Android Auto на штатной ГУ Geely Coolray без адаптера: патч точки доступа ГУ на 5 ГГц и приложение OH Coolray, проверка и установка с флешки, откат."
+description: "Беспроводной Android Auto без адаптера на старой ГУ Geely Coolray / Belgee X50 (дорестайлинг, Android 4.3): точка доступа ГУ на 5 ГГц и приложение OH Coolray, проверка и установка с флешки, откат."
 image: /assets/logo.png
 ---
 
-# Беспроводной Android Auto без адаптера — Wi‑Fi 5 ГГц и OH Coolray
+# Беспроводной Android Auto без адаптера на Geely Coolray / Belgee X50 (старое ГУ)
 
 Телефон подключается к точке доступа самой магнитолы на 5 ГГц, а Android Auto на экране показывает приложение **OH Coolray** — сборка Open Headunit (OHU) для Coolray. Коробка Carlinkit или беспроводной адаптер не нужны. Всё ставится одной флешкой и откатывается так же.
+
+⚠️ **Только для старой магнитолы** на Android 4.3 — дорестайлинговые Coolray и Belgee X50. На новые ГУ на Android 9 (бело-синий интерфейс) не подходит.
 
 📦 Архив `coolray_5ghz_fix_v1.1.zip` — [в Telegram-чате](https://t.me/CoolRay_Android_Develop/70989/464341)
 
@@ -36,8 +38,8 @@ _[К оглавлению](#оглавление)_
 
 | Параметр | Значение |
 | --- | --- |
-| Автомобиль | Geely Coolray / SX11 (дорестайлинг) |
-| Магнитола | штатная, C3ALFUS, Android 4.3 |
+| Автомобиль | Geely Coolray / SX11 и Belgee X50 — только дорестайлинг со старой ГУ |
+| Магнитола | штатная, C3ALFUS, Android 4.3 (новые ГУ на Android 9 не подходят) |
 | Чип Wi‑Fi | Broadcom BCM4339 |
 | Проверено на ПО | GKUI 05.07.06000.H50.00032 |
 | Телефон | Android с беспроводным Android Auto и Wi‑Fi 5 ГГц |

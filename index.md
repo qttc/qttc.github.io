@@ -28,7 +28,7 @@ image: /assets/logo.png
 - [Сообщество и прошивки](/pages/community/) — где скачать, как установить и как откатить изменения
   - [Вернуть заводскую прошивку](/pages/rollback/) — откат Community, архивы для всех версий ГУ
 - [Приложения для ГУ](/pages/apps/) — список программ, совместимость и короткие инструкции
-  - [Беспроводной Android Auto](/pages/wireless-android-auto/) — без адаптера, через Wi‑Fi 5 ГГц самой ГУ
+  - [Беспроводной Android Auto](/pages/wireless-android-auto/) — без адаптера, через Wi‑Fi 5 ГГц самой ГУ (только старое ГУ)
 - [CarPlay / Carlinkit](/pages/carlinkit/) — подключение, частые ошибки и быстрые решения
   - [CarPlay без донгла](/pages/carplay-no-dongle/) — бесплатное приложение coorlay
 - [Техничка](/pages/parts/) — каталоги запчастей, артикулы, полезные ссылки
