@@ -48,6 +48,7 @@ _[К оглавлению](#оглавление)_
 | | Приложение | Итог |
 | --- | --- | --- |
 | ✅ | **Open Headunit (OHU)** — он же HeadUnit Revived | лучший выбор: активно развивается, работает быстрее, кнопки руля работают. [APK 3.4.0 в чате](https://t.me/CoolRay_Android_Develop/461196) |
+| ✅ | **OH Coolray** — сборка OHU для Coolray | беспроводной Android Auto без адаптера: точка доступа ГУ на 5 ГГц. [Инструкция](/pages/wireless-android-auto/), [архив в чате](https://t.me/CoolRay_Android_Develop/70989/464341) |
 | ⚠️ | **Headunit Reloaded (HUR)** | устарел: версию для Android 4 больше не обновляют, кнопки руля не поддерживает |
 | ⚠️ | **AutoKit** | только для коробок Carlinkit CCPx; Google Ассистент не слышит микрофон. [APK 2024.04.29 RU в чате](https://t.me/CoolRay_Android_Develop/462284) |
 
