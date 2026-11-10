@@ -2,6 +2,7 @@
 title: "Как вернуть заводскую прошивку ГУ Geely Coolray / Belgee X50 (откат Community)"
 layout: page
 permalink: /pages/rollback/
+last_modified_at: 2026-10-30
 parent: /pages/community/
 crumb: "Возврат к заводской прошивке"
 description: "Как вернуть головное устройство Geely Coolray / Belgee X50 в заводское состояние после Community: архивы отката для H30, H40, H50, частичный откат (ES, Viper, AutoKit), пошаговая инструкция."

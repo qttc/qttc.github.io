@@ -2,6 +2,7 @@
 title: "Приложения для ГУ Geely Coolray / Belgee X50: установка, Viper, Android Auto"
 layout: page
 permalink: /pages/apps/
+last_modified_at: 2026-11-06
 description: "Приложения для ГУ Geely Coolray / Belgee X50: Яндекс Навигатор и Музыка, Android Auto (OHU, HUR, AutoKit), голосовой ассистент, Viper, регулятор громкости, ES Проводник, CarPlay без донгла."
 image: /assets/logo.png
 ---

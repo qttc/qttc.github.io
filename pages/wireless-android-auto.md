@@ -2,6 +2,7 @@
 title: "Беспроводной Android Auto без адаптера на Geely Coolray / Belgee X50 (старое ГУ)"
 layout: page
 permalink: /pages/wireless-android-auto/
+last_modified_at: 2026-11-06
 parent: /pages/apps/
 crumb: "Беспроводной Android Auto"
 faq: true

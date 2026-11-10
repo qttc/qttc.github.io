@@ -1,11 +1,12 @@
-{% comment %}FAQPage из готового HTML: вопрос — каждый <h3> со знаком «?», ответ — текст до ссылки «К оглавлению»{% endcomment %}
+{% comment %}FAQPage из готового HTML: вопрос — каждый <h3> со знаком «?», ответ — текст до «К оглавлению», <hr> или <h2>.
+Закрывающие inline-теги убираются до вставки пробелов, иначе перед точкой после ссылки остаётся пробел.{% endcomment %}
 {% assign sections = include.html | split: "<h3" %}
 {% assign first = true %}
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
 {% for s in sections offset:1 %}
   {% assign q = s | split: "</h3>" | first | split: ">" | last | strip %}
-  {% assign a = s | split: "</h3>" | last | split: "К оглавлению" | first | replace: "<", " <" | strip_html | split: " " | join: " " | truncate: 1500 %}
+  {% assign a = s | split: "</h3>" | last | split: "К оглавлению" | first | split: "<hr" | first | split: "<h2" | first | replace: "</a>", "" | replace: "</code>", "" | replace: "</strong>", "" | replace: "</em>", "" | replace: "<", " <" | strip_html | split: " " | join: " " | truncate: 1500 %}
   {% unless q contains "?" %}{% continue %}{% endunless %}
   {% if a == "" %}{% continue %}{% endif %}
   {% unless first %},{% endunless %}{% assign first = false %}

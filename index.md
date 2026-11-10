@@ -2,6 +2,7 @@
 title: "Geely Coolray / Belgee X50: прошивки, CarPlay, запчасти"
 layout: page
 permalink: /
+last_modified_at: 2026-11-06
 description: "Всё для владельцев Geely Coolray / Belgee X50: где скачать прошивки и как сделать откат, приложения для головного устройства, CarPlay/Carlinkit, каталоги запчастей и инструкции по типовым проблемам."
 image: /assets/logo.png
 ---

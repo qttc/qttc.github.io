@@ -2,7 +2,8 @@
 title: "CarPlay и Android Auto на Geely Coolray / Belgee X50"
 layout: page
 permalink: /pages/carlinkit/
-description: Как подключить CarPlay/Carlinkit на дорестайлинговых моделях, какие версии донглов бывают, где купить и как устранить типовые проблемы.
+last_modified_at: 2026-11-10
+description: "CarPlay и Android Auto на Geely Coolray / Belgee X50 через донгл Carlinkit: какие версии подходят, чем отличаются, где купить, как настроить и что делать, если соединение отваливается."
 image: /assets/logo.png
 ---
 

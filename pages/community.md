@@ -2,6 +2,7 @@
 title: "Community для Geely Coolray / Belgee X50: установка и откат"
 layout: page
 permalink: /pages/community/
+last_modified_at: 2026-10-30
 faq: true
 description: "Пошаговые инструкции по Community для Geely Coolray/Belgee X50: где скачать, как установить и как откатить изменения. Ответы на частые вопросы, выбор флешки/порта и работа с телеграм-ботом."
 ---

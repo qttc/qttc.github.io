@@ -2,6 +2,7 @@
 title: "Запчасти и масла Geely Coolray / Belgee X50: артикулы"
 layout: page
 permalink: /pages/parts/
+last_modified_at: 2026-11-10
 description: "Запчасти Geely Coolray / Belgee X50: ТО и расходники, масло, коды краски, онлайн-каталоги запчастей и PDF-руководства по ремонту и электросхемам."
 image: /assets/parts.png
 ---
@@ -37,6 +38,12 @@ image: /assets/parts.png
 Таблица кодов заводской краски (ЛКП) для подкраски и ремонта.
 
 → [Коды краски Geely Coolray](/pages/paint-codes/)
+
+## Значки на приборной панели
+
+Загорелась лампа — что она означает, можно ли ехать и что проверить перед поездкой в сервис.
+
+→ [Значки на приборной панели Geely Coolray / Belgee X50](/pages/warning-lights/)
 
 ## Каталоги
 
