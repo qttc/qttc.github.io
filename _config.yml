@@ -27,6 +27,14 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+# PDF не в sitemap: на GitHub Pages их lastmod = время деплоя, Google перестаёт верить датам.
+# Находятся по ссылкам со страницы запчастей.
+defaults:
+  - scope:
+      path: "assets/pdf"
+    values:
+      sitemap: false
+
 # Path
 includes_dir: _includes
 layouts_dir: _layouts
