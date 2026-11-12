@@ -2,7 +2,7 @@
 title: "Как вернуть заводскую прошивку ГУ Geely Coolray / Belgee X50 (откат Community)"
 layout: page
 permalink: /pages/rollback/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-12
 parent: /pages/community/
 crumb: "Возврат к заводской прошивке"
 description: "Как вернуть головное устройство Geely Coolray / Belgee X50 в заводское состояние после Community: архивы отката для H30, H40, H50, частичный откат (ES, Viper, AutoKit), пошаговая инструкция."
@@ -70,6 +70,8 @@ _[К оглавлению](#оглавление)_
 | ViPER4Android | Удаление ViperFX.zip | [пост в чате](https://t.me/CoolRay_Android_Develop/76794/414412) |
 | AutoKit | Удаление AutoKit.zip | [пост в чате](https://t.me/CoolRay_Android_Develop/76794/414422) |
 | Навигацию на приборке | Откат IPKServer.zip | [пост в чате](https://t.me/CoolRay_Android_Develop/76794/414422) |
+
+Откат IPKServer возвращает стоковый сервис навигации — он помогает на ГУ H50, если стрелки на приборке не появляются ([подробнее](/pages/cluster-navigation/#если-стрелки-не-появляются)).
 
 Пакеты «Инженерка в сток» и «Настройки в сток для H50» — в боте, в разделе отката.
 
