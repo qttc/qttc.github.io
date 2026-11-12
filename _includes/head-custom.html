@@ -3,5 +3,6 @@
 <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ '/sitemap.xml' | absolute_url }}">
 <meta name="robots" content="{{ page.robots | default: 'index,follow' }}">
 
-{% seo %}
-<meta property="og:locale" content="{{ site.locale }}">
+{% comment %}Без « | Coolray X50 Wiki»: заголовки и так длинные, в выдаче суффикс обрезается{% endcomment %}
+<title>{{ page.title | default: site.title | escape }}</title>
+{% seo title=false %}

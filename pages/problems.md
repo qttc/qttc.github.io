@@ -2,7 +2,7 @@
 title: "Проблемы и решения Geely Coolray / Belgee X50"
 layout: page
 permalink: /pages/problems/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-12
 description: "Частые проблемы Geely Coolray / Belgee X50 и решения: жарит климат (прошивка 9117), плохо слышно по громкой связи, стук под капотом, регулировка фар, увод в сторону, стеклоподъёмники и другие."
 image: /assets/logo.png
 ---
@@ -67,7 +67,8 @@ image: /assets/logo.png
 
 
 ## Предохранители
-**Схема/описание:** [geely-club.by](https://geely-club.by/viewtopic.php?f=279&t=1869)
+Схемы блоков в моторном отсеке и в салоне с расшифровкой каждого предохранителя — на отдельной странице [Предохранители](/pages/fuses/).
+Обсуждение на форуме: [geely-club.by](https://geely-club.by/viewtopic.php?f=279&t=1869)
 
 
 
