@@ -2,7 +2,7 @@
 
 Вики для владельцев Geely Coolray / Belgee X50: прошивки Community и откат,
 приложения для головного устройства, CarPlay/Carlinkit, ТО, масла и жидкости,
-коды краски и решения частых проблем.
+предохранители, аккумулятор, шины и диски, коды краски и решения частых проблем.
 
 🔗 https://qttc.github.io/
 
@@ -10,6 +10,7 @@
 - [Сообщество и прошивки](https://qttc.github.io/pages/community/)
   - [Вернуть заводскую прошивку](https://qttc.github.io/pages/rollback/)
 - [Приложения для ГУ](https://qttc.github.io/pages/apps/)
+  - [Стрелки навигации на приборке](https://qttc.github.io/pages/cluster-navigation/)
   - [Беспроводной Android Auto (OH Coolray, 5 ГГц)](https://qttc.github.io/pages/wireless-android-auto/)
 - [CarPlay / Carlinkit](https://qttc.github.io/pages/carlinkit/)
   - [CarPlay без донгла (coorlay)](https://qttc.github.io/pages/carplay-no-dongle/)
@@ -17,6 +18,9 @@
   - [ТО и расходники](https://qttc.github.io/pages/to/)
   - [Масло и жидкости](https://qttc.github.io/pages/oil/)
   - [Коды краски](https://qttc.github.io/pages/paint-codes/)
+  - [Предохранители](https://qttc.github.io/pages/fuses/)
+  - [Аккумулятор](https://qttc.github.io/pages/battery/)
+  - [Шины и диски](https://qttc.github.io/pages/tires/)
 - [Проблемы и решения](https://qttc.github.io/pages/problems/)
   - [Значки на приборной панели](https://qttc.github.io/pages/warning-lights/)
 
@@ -60,3 +64,8 @@ python _scripts/check_site.py
   при новой версии в чате — заменить файл и ссылки.
 - С фото убирать специфичную информацию: госномера, VIN, серийники, адреса, ФИО.
 - Не больше одного эмодзи в строке; эмодзи не ставить в заголовки (ломают якоря).
+- Факты — из руководства по эксплуатации и Service Manual (`assets/pdf/`), сверка по 2+ источникам;
+  данные из чата помечать «по опыту владельцев», неподтверждённое не публиковать.
+  Рекомендаций «что купить» (бренды АКБ, шин и т.п.) не давать — только характеристики.
+- Чужие фото (чат, Drive2) — с подписью и ссылкой на источник.
+- `<title>` страниц выводится без приписки сайта (`_includes/head-custom.html`, `{% seo title=false %}`).
