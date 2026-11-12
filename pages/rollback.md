@@ -64,12 +64,14 @@ _[К оглавлению](#оглавление)_
 
 Если нужно убрать только одну часть Community, а остальное оставить. Для полного отката эти архивы **не нужны**.
 
-| Что убрать | Архив | Где скачать |
+| Что убрать | Архив | Скачать |
 | --- | --- | --- |
-| ES Проводник | Удаление ES.zip | [пост в чате](https://t.me/CoolRay_Android_Develop/76794/414412) |
-| ViPER4Android | Удаление ViperFX.zip | [пост в чате](https://t.me/CoolRay_Android_Develop/76794/414412) |
-| AutoKit | Удаление AutoKit.zip | [пост в чате](https://t.me/CoolRay_Android_Develop/76794/414422) |
-| Навигацию на приборке | Откат IPKServer.zip | [пост в чате](https://t.me/CoolRay_Android_Develop/76794/414422) |
+| ES Проводник | Удаление ES.zip (847 Б) | [с сайта](/assets/files/rollback/remove-es.zip) · [из чата](https://t.me/CoolRay_Android_Develop/76794/414412) |
+| ViPER4Android | Удаление ViperFX.zip (3 КБ) | [с сайта](/assets/files/rollback/remove-viperfx.zip) · [из чата](https://t.me/CoolRay_Android_Develop/76794/414413) |
+| AutoKit | Удаление AutoKit.zip (850 Б) | [с сайта](/assets/files/rollback/remove-autokit.zip) · [из чата](https://t.me/CoolRay_Android_Develop/76794/414423) |
+| Навигацию на приборке | Откат IPKServer.zip (6,7 МБ) | [с сайта](/assets/files/rollback/ipkserver-rollback.zip) · [из чата](https://t.me/CoolRay_Android_Develop/76794/414422) |
+
+Ставятся так же, как полный откат: распакуйте архив в корень флешки (FAT32) и вставьте её в машину. После удаления ES и AutoKit магнитола сама перезагрузится. Откат IPKServer есть только для версий H40.00022, H50.00009, H50.00020, H50.00022 и H50.00032 — на H30 он не сработает.
 
 Откат IPKServer возвращает стоковый сервис навигации — он помогает на ГУ H50, если стрелки на приборке не появляются ([подробнее](/pages/cluster-navigation/#если-стрелки-не-появляются)).
 
