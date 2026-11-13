@@ -2,11 +2,12 @@
 
 Вики для владельцев Geely Coolray / Belgee X50: прошивки Community и откат,
 приложения для головного устройства, CarPlay/Carlinkit, ТО, масла и жидкости,
-предохранители, аккумулятор, шины и диски, ключ, коробка 7DCT, коды краски и решения частых проблем.
+предохранители, аккумулятор, шины и диски, ключ, коробка 7DCT, гарантия, версии машины, коды краски и решения частых проблем.
 
 🔗 https://qttc.github.io/
 
 ## Разделы
+- [Версии машины](https://qttc.github.io/pages/versions/)
 - [Сообщество и прошивки](https://qttc.github.io/pages/community/)
   - [Вернуть заводскую прошивку](https://qttc.github.io/pages/rollback/)
 - [Приложения для ГУ](https://qttc.github.io/pages/apps/)
@@ -16,6 +17,7 @@
   - [CarPlay без донгла (coorlay)](https://qttc.github.io/pages/carplay-no-dongle/)
 - [Техничка](https://qttc.github.io/pages/parts/) — каталоги и PDF
   - [ТО и расходники](https://qttc.github.io/pages/to/)
+    - [Гарантия](https://qttc.github.io/pages/warranty/)
   - [Масло и жидкости](https://qttc.github.io/pages/oil/)
   - [Коды краски](https://qttc.github.io/pages/paint-codes/)
   - [Предохранители](https://qttc.github.io/pages/fuses/)

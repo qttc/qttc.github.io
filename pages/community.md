@@ -2,7 +2,7 @@
 title: "Прошивка магнитолы Geely Coolray / Belgee X50: Community — установка и откат"
 layout: page
 permalink: /pages/community/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 faq: true
 description: "Прошивка Community для штатной магнитолы (ГУ) Geely Coolray / Belgee X50: где скачать, как установить с флешки, что добавляет и как вернуть заводскую прошивку."
 ---
@@ -113,7 +113,7 @@ _[К оглавлению](#оглавление)_
 ___
 
 ### Установится ли Community на Belgee X50?
-Установка Community возможна только на дорестайлинговые версии со старым ГУ (Android 4.3)  
+Установка Community возможна только на дорестайлинговые версии со старым ГУ (Android 4.3) — [как узнать, какое ГУ у вас](/pages/versions/#головное-устройство-старое-или-новое)  
 
 На новые ГУ c Android 9 (с бело/синим интерфейсом) можно установить 
 [Lunaris](https://lunaris-firmware.ru/ru/прошивки/belgee-x50) + 
