@@ -2,7 +2,7 @@
 title: "Запчасти и масла Geely Coolray / Belgee X50: артикулы"
 layout: page
 permalink: /pages/parts/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 description: "Запчасти Geely Coolray / Belgee X50: ТО и расходники, масло, коды краски, онлайн-каталоги запчастей и PDF-руководства по ремонту и электросхемам."
 image: /assets/parts.png
 ---
@@ -62,6 +62,18 @@ image: /assets/parts.png
 Характеристики штатной АКБ, снятие и установка, датчик IBS, проверка утечки тока.
 
 → [Аккумулятор Geely Coolray / Belgee X50](/pages/battery/)
+
+## Ключ
+
+Батарейка CR2032 и её замена, «ключ не найден» и зона аварийного пуска, автозапуск с брелока, прописка ключей.
+
+→ [Ключ Geely Coolray / Belgee X50](/pages/key/)
+
+## Коробка 7DCT
+
+Режимы P/R/N/D/M, замена масла (пробки, моменты, сколько сливается), адаптация, перегрев и коды ошибок, буксировка.
+
+→ [Робот 7DCT Geely Coolray / Belgee X50](/pages/dct/)
 
 ## Каталоги
 
