@@ -2,7 +2,7 @@
 title: "CarPlay и Android Auto на Geely Coolray / Belgee X50"
 layout: page
 permalink: /pages/carlinkit/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-13
 description: "CarPlay и Android Auto на Geely Coolray / Belgee X50 через донгл Carlinkit: какие версии подходят, чем отличаются, где купить, как настроить и что делать, если соединение отваливается."
 image: /assets/logo.png
 ---
@@ -11,7 +11,7 @@ image: /assets/logo.png
 
 Просто о главном: какие донглы подходят, чем отличаются версии, где выгодно купить и как настроить. Плюс частые проблемы и короткие решения, чтобы всё заработало без долгих танцев.
 
-> Запуск и использование CarPlay или Android Auto для **дорестайлинговых** (в т.ч. X50 на старом ГУ) возможен при покупке дополнительной коробочки (донгла) или при установке дополнительного софта (HUR для Android Auto, [coorlay](/pages/carplay-no-dongle/) для CarPlay). Самым стабильным способом является докупка донгла.
+> Запуск и использование CarPlay или Android Auto для **дорестайлинговых** (в т.ч. X50 на старом ГУ) возможен при покупке дополнительной коробочки (донгла) или при установке дополнительного софта (HUR или [OH Coolray — беспроводной без адаптера](/pages/wireless-android-auto/) для Android Auto, [coorlay](/pages/carplay-no-dongle/) для CarPlay). Самым стабильным способом является докупка донгла.
 >
 
 <nav class="toc" id="оглавление" markdown="1">

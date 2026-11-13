@@ -2,7 +2,7 @@
 title: "CarPlay на Geely Coolray без донгла: приложение coorlay"
 layout: page
 permalink: /pages/carplay-no-dongle/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-13
 parent: /pages/carlinkit/
 crumb: "CarPlay без донгла"
 description: "Как запустить CarPlay на штатной магнитоле Geely Coolray без адаптера Carlinkit: бесплатное приложение coorlay, CarPlay по USB и беспроводной, установка с флешки."
@@ -82,7 +82,7 @@ _[К оглавлению](#оглавление)_
 
 | | Вопрос | Ответ |
 | --- | --- | --- |
-| 📱 | Работает с Android-смартфоном? | Нет, только iPhone — это CarPlay. Для Android смотрите [Android Auto на ГУ](/pages/apps/#android-auto-autokit-hur-или-ohu). |
+| 📱 | Работает с Android-смартфоном? | Нет, только iPhone — это CarPlay. Для Android смотрите [Android Auto на ГУ](/pages/apps/#android-auto-autokit-hur-или-ohu) и [беспроводной Android Auto без адаптера](/pages/wireless-android-auto/). |
 | 🔌 | По проводу или без? | По USB — стабильнее всего. Без провода у части владельцев бывают лаги по сравнению с коробкой. |
 | 📶 | Не работает Wi-Fi Direct | Не на всех ГУ он есть — тогда coorlay подключается через точку доступа магнитолы. Исправление Wi-Fi Direct — в [инструкции проекта](https://github.com/otnep/coorlay/blob/main/RootInstall/ROOT-INSTALL.md). |
 | 🎵 | Как звук? | Как с коробкой Carlinkit; по беспроводу — AAC, задержка звука 200–800 мс (динамический буфер). Трек виден на приборке. |
