@@ -37,7 +37,7 @@ image: /assets/parts.png
 
 Таблица кодов заводской краски (ЛКП) для подкраски и ремонта.
 
-→ [Коды краски Geely Coolray](/pages/paint-codes/)
+→ [Цвета кузова и коды краски Geely Coolray](/pages/paint-codes/)
 
 ## Значки на приборной панели
 
