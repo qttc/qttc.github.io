@@ -2,7 +2,7 @@
 title: "Гарантия Geely Coolray и Belgee X50: сроки, условия, что не покрывается"
 layout: page
 permalink: /pages/warranty/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-14
 parent: /pages/to/
 crumb: "Гарантия"
 faq: true
@@ -114,7 +114,7 @@ _[К оглавлению](#оглавление)_
 
 ## Отзывные и сервисные кампании
 
-Отзывов Росстандарта именно по Coolray и Belgee X50 мы не нашли. В мае 2021 года по Coolray был сервисный бюллетень — растрескивание патрубка вентиляции топливного бака ([Autonews](https://www.autonews.ru/news/60a25b889a79476110667fe4), [Drom](https://news.drom.ru/Geely-Coolray-83949.html)).
+В мае 2021 года по Coolray был сервисный бюллетень — растрескивание патрубка вентиляции топливного бака ([Autonews](https://www.autonews.ru/news/60a25b889a79476110667fe4), [Drom](https://news.drom.ru/Geely-Coolray-83949.html)).
 
 Действующие кампании для своей машины проверяйте по VIN: [Geely](https://www.geely-motors.com/for-owners/technical-center/technical-campaigns/), [Belgee](https://belgee.ru/for-owners/technical-campaigns/). Дилер должен выполнять обязательные кампании на каждом ТО. По опыту владельцев, по VIN находились кампании по камерам, ЭРА-ГЛОНАСС, помпе, подогреву заднего дивана и электроприводу багажника.
 
