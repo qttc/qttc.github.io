@@ -2,7 +2,7 @@
 title: "Версии Geely Coolray и Belgee X50: дорестайлинг, рестайлинг, X50+, ГУ H30/H40/H50"
 layout: page
 permalink: /pages/versions/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-15
 crumb: "Версии машины"
 faq: true
 description: "Как отличить дорестайлинговый Geely Coolray и Belgee X50 от рестайлинга и X50+, чем отличаются моторы и мультимедиа, ревизии головного устройства H30/H40/H50 и новое ГУ на Android 9, Geely Binyue из Китая."
@@ -40,7 +40,7 @@ _[К оглавлению](#оглавление)_
 
 ## Как отличить дорестайлинг от рестайлинга
 
-| Признак | Дорестайлинг Coolray / Belgee X50 | Рестайлинг Coolray 2023 | X50+ / Coolray 2026 |
+| | Дорестайлинг | Рестайлинг 2023 | X50+ / 2026 |
 | --- | --- | --- | --- |
 | Мотор | 3 цилиндра, ремень ГРМ | 4 цилиндра, цепь | 4 цилиндра |
 | Задние фонари | раздельные | сплошная полоса | новые, другой кузов |
@@ -66,7 +66,7 @@ _[К оглавлению](#оглавление)_
 | Интерфейс | тёмный, меню снизу | светлый бело-синий, панель слева |
 | Где стоит | Coolray 2020–2023, Belgee X50 до начала 2024 | Belgee X50 с начала 2024 |
 | CarPlay с завода | нет — [Carlinkit](/pages/carlinkit/) или [coorlay](/pages/carplay-no-dongle/) | проводной |
-| Прошивка | [Community](/pages/community/) | Community не ставится; для него есть Lunaris |
+| Прошивка | [Community](/pages/community/) | Community не ставится; для него есть [Lunaris](https://lunaris-firmware.ru/wiki/ustanovka-proshivki-lunaris) |
 
 ### Ревизии старого ГУ: H30, H40, H50
 
