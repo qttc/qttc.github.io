@@ -19,6 +19,9 @@ webmaster_verifications:
   yandex: 5430c2184744030b
 logo: /assets/logo.png
 image: /assets/logo.png
+
+# Яндекс Метрика: грузится только после согласия посетителя (_includes/consent.html)
+metrika_id: 114272656
 social:
   name: Coolray X50 Wiki
   links:

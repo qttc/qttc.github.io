@@ -1,0 +1,40 @@
+{% comment %}Яндекс Метрика грузится только после «Согласен». Выбор хранится в localStorage (ключ metrika-consent).{% endcomment %}
+<div class="consent" id="consent" role="region" aria-label="Сбор статистики" hidden>
+  <p>Сайт может собирать обезличенную статистику посещений через Яндекс Метрику (cookie). Без согласия она не включается. <a href="{{ '/pages/privacy/' | relative_url }}">Подробнее</a></p>
+  <div class="consent-actions">
+    <button type="button" class="consent-yes" data-consent="yes">Согласен</button>
+    <button type="button" class="consent-no" data-consent="no">Отказаться</button>
+  </div>
+</div>
+<script>
+(function () {
+  var KEY = "metrika-consent", ID = {{ site.metrika_id }};
+  function get() { try { return localStorage.getItem(KEY); } catch (e) { return null; } }
+  function set(v) { try { localStorage.setItem(KEY, v); } catch (e) {} }
+  function load() {
+    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+    m[i].l=1*new Date();
+    for (var j = 0; j < document.scripts.length; j++) { if (document.scripts[j].src === r) { return; } }
+    k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+    ym(ID, "init", { ssr: true, clickmap: true, trackLinks: true, accurateTrackBounce: true, webvisor: false });
+  }
+  var box = document.getElementById("consent"), v = get();
+  if (v === "yes") load();
+  else if (v !== "no") box.hidden = false;
+  box.addEventListener("click", function (e) {
+    var b = e.target.closest("[data-consent]");
+    if (!b) return;
+    set(b.dataset.consent);
+    box.hidden = true;
+    if (b.dataset.consent === "yes") load();
+  });
+  // Кнопки на странице политики: сменить выбор
+  document.querySelectorAll("[data-consent-reset]").forEach(function (b) {
+    b.addEventListener("click", function () {
+      set(b.dataset.consentReset);
+      location.reload();
+    });
+  });
+})();
+</script>

@@ -33,8 +33,9 @@
   <footer class="site-footer">
     <div class="container">
       <p>Coolray X50 Wiki — материалы владельцев Geely Coolray / Belgee X50.</p>
-      <p><a href="https://t.me/CoolRay_Android_Develop">Telegram-сообщество</a></p>
+      <p><a href="https://t.me/CoolRay_Android_Develop">Telegram-сообщество</a> · <a href="{{ '/pages/privacy/' | relative_url }}">Политика конфиденциальности</a></p>
     </div>
   </footer>
+  {% if site.metrika_id %}{% include consent.html %}{% endif %}
 </body>
 </html>
