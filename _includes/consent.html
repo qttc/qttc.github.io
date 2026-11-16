@@ -1,9 +1,9 @@
 {% comment %}Яндекс Метрика грузится только после «Согласен». Выбор хранится в localStorage (ключ metrika-consent).{% endcomment %}
 <div class="consent" id="consent" role="region" aria-label="Сбор статистики" hidden>
-  <p>Сайт может собирать обезличенную статистику посещений через Яндекс Метрику (cookie). Без согласия она не включается. <a href="{{ '/pages/privacy/' | relative_url }}">Подробнее</a></p>
+  <button type="button" class="consent-close" data-consent="no" aria-label="Закрыть">&times;</button>
+  <p>Помогите сделать сайт лучше — разрешите считать посещения. <a href="{{ '/pages/privacy/' | relative_url }}">Подробнее</a></p>
   <div class="consent-actions">
-    <button type="button" class="consent-yes" data-consent="yes">Согласен</button>
-    <button type="button" class="consent-no" data-consent="no">Отказаться</button>
+    <button type="button" class="consent-yes" data-consent="yes">Разрешить</button>
   </div>
 </div>
 <script>
