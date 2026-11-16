@@ -37,6 +37,7 @@ def check_links(pages):
             if href.startswith(('http', 'mailto', '//')) or href.endswith(('.css', '.png', '.ico', '.xml')):
                 continue
             path, _, frag = href.partition('#')
+            path = path.partition('?')[0]  # ?v= у CSS — сброс кэша, не часть пути
             path, frag = U.unquote(path) or url, U.unquote(frag)
             if path.startswith('/assets/'):
                 if not os.path.exists(SITE + path):
