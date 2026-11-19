@@ -1,8 +1,8 @@
 ---
-title: "Объём масла Geely Coolray / Belgee X50 (JLH-3G15TD), антифриз, тормозуха"
+title: "Объём масла Geely Coolray / Belgee X50 (JLH-3G15TD), антифриз, тормозная жидкость"
 layout: page
 permalink: /pages/oil/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-19
 parent: /pages/parts/
 crumb: "Масло и жидкости"
 faq: true

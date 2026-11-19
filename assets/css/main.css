@@ -132,6 +132,8 @@ code {
 }
 pre { background: var(--code-bg); padding: 14px 16px; border-radius: var(--radius); overflow-x: auto; }
 pre code { background: none; padding: 0; }
+/* длинные имена папок/путей в тексте иначе дают горизонтальную прокрутку всей страницы на телефоне */
+:not(pre) > code { overflow-wrap: anywhere; }
 
 /* --- Tables (артикулы, масла) — скроллятся по горизонтали --- */
 .content table {
@@ -143,6 +145,12 @@ pre code { background: none; padding: 0; }
 .content th { background: var(--surface); font-weight: 650; white-space: nowrap; }
 .content tbody tr:nth-child(even) { background: var(--surface); }
 .content td { font-variant-numeric: tabular-nums; }
+/* телефон: компактнее ячейки и перенос заголовков, чтобы таблицы влезали без прокрутки вбок */
+@media (max-width: 600px) {
+  .content table { font-size: .85rem; }
+  .content th, .content td { padding: 6px 7px; -webkit-hyphens: auto; hyphens: auto; }
+  .content th { white-space: normal; }
+}
 
 /* --- Блок оглавления: единый вид на всех страницах --- */
 .toc {
