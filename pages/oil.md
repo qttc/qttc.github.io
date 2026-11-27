@@ -44,7 +44,7 @@ image: /assets/fluids-table.jpg
 | Двигатель | JLH-3G15TD |
 | Объём при замене | **5,6 ± 0,1 л** (сухой двигатель — 6,6 л) |
 | Замена масла и фильтра | каждые **10 000 км или 12 месяцев**, первая — на ТО-0 (3 000 км) |
-| Рекомендация Geely | Lopal 1 Advanced Fully Synthetic Series SP 0W-20 |
+| Рекомендация Geely | Lopal 1 Advanced Fully Synthetic SP 0W-20 |
 | Также допустимо по руководству | **API SN Plus SAE 5W-40** — только при температуре выше −30 °C; в мороз ниже −30 °C — только 0W-20 с допуском VCC RBS0-2AE |
 
 💡 Подходит масло 0W-20 с этими допусками — ниже список проверенных владельцами. На замену нужно около 5,6 л: удобно взять канистру 4–5 л и литровую.
@@ -57,7 +57,7 @@ _[К оглавлению](#оглавление)_
 
 | Масло | Артикул |
 | --- | --- |
-| Lopal 1 Advanced Fully Synthetic Series SP 0W-20 | 1 л — LP0W20AFS1L; 4 л — LP0W20AFS4L |
+| Lopal 1 Advanced Fully Synthetic SP 0W-20 | 1 л — LP0W20AFS1L; 4 л — LP0W20AFS4L |
 | Valvoline SYNPOWER FE 0W-20 | 1 л — 872583; 5 л — 872584 |
 | MANNOL LEGEND FORMULA C5 0W-20 | 1 л — MN7921-1; 5 л — MN7921-5 |
 | Petrol Ofisi MAXIMA HYBRID 0W-20 | 4 л — 400000419 |
