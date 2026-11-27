@@ -2,7 +2,7 @@
 title: "CarPlay на Geely Coolray без донгла: приложение coorlay"
 layout: page
 permalink: /pages/carplay-no-dongle/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-27
 parent: /pages/carlinkit/
 crumb: "CarPlay без донгла"
 description: "Как запустить CarPlay на штатной магнитоле Geely Coolray без адаптера Carlinkit: бесплатное приложение coorlay, CarPlay по USB и беспроводной, установка с флешки."
@@ -71,7 +71,7 @@ _[К оглавлению](#оглавление)_
 | | coorlay | Донгл Carlinkit |
 | --- | --- | --- |
 | Цена | бесплатно | покупка коробки |
-| Стабильность | экспериментальный проект | самый стабильный вариант |
+| Стабильность | эксперимент | самый стабильный вариант |
 | Android Auto | нет | есть (модели CCPA/CCPW/CCPM) |
 
 Нужна максимальная стабильность или Android Auto — [выбирайте донгл Carlinkit](/pages/carlinkit/).

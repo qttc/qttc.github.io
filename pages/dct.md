@@ -2,7 +2,7 @@
 title: "Робот 7DCT Geely Coolray: режимы, замена масла, перегрев"
 layout: page
 permalink: /pages/dct/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-27
 parent: /pages/parts/
 crumb: "Коробка 7DCT"
 faq: true
@@ -42,12 +42,12 @@ _[К оглавлению](#оглавление)_
 
 В России и Беларуси почти все версии — с роботом 7DCT. Исключение одно: атмосферный Belgee X50 2026 года с классическим автоматом.
 
-| Машина | Мотор | Коробка | Масло в коробке |
-| --- | --- | --- | --- |
-| Coolray до рестайлинга (2020–2023), Belgee X50 (с 2023) | 1,5 турбо, 3 цилиндра, JLH-3G15TD | робот 7DCT | Shell Spirax S5 DCT10, 4,0 л |
-| Coolray рестайлинг (2023–2025) | 1,5 турбо, 4 цилиндра, BHE15-AFZ (147 л. с.) или BHE15-EFZ (128 кВт / 290 Н·м) | робот 7DCT | Shell Spirax High Perf HDCTF: 3,3 л с заменой фильтра коробки, 2,7 л без |
-| Belgee X50+, Coolray 2026 | 1,5 турбо, 4 цилиндра, BHE15-AFZ (147 л. с.) | робот 7DCT | в руководстве не указано |
-| Belgee X50 с атмосферным мотором (2026) | 1,5 атмосферный, 4 цилиндра, BHE15-AFD (122 л. с.) | **6AT** — классический 6-ступенчатый автомат с гидротрансформатором | в руководстве не указано |
+| Машина | Мотор и коробка | Масло в коробке |
+| --- | --- | --- |
+| Coolray 2020–2023, Belgee X50 (с 2023) | 1,5 турбо, 3 цилиндра, JLH-3G15TD; робот 7DCT | Shell Spirax S5 DCT10, 4,0 л |
+| Coolray рестайлинг (2023–2025) | 1,5 турбо, 4 цилиндра, BHE15-AFZ (147 л. с.) или BHE15-EFZ (128 кВт / 290 Н·м); робот 7DCT | Shell Spirax High Perf HDCTF: 3,3 л с заменой фильтра коробки, 2,7 л без |
+| Belgee X50+, Coolray 2026 | 1,5 турбо, 4 цилиндра, BHE15-AFZ (147 л. с.); робот 7DCT | в руководстве не указано |
+| Belgee X50 атмосферный (2026) | 1,5 без турбины, 4 цилиндра, BHE15-AFD (122 л. с.); **6AT** — 6-ступенчатый автомат с гидро&shy;трансформатором | в руководстве не указано |
 
 Моторы, коробки и жидкости — по руководствам по эксплуатации: [нового Geely Coolray](https://cdn.perxis.ru/originals/d1elmp8beucc73er1hd0/original) (стр. 227–228, 231), [Belgee X50+](https://cdn.perxis.ru/originals/d8632e8beucc73ceoa10/original) (стр. 178–180), [Geely Coolray 2026](https://cdn.perxis.ru/originals/d8fd7tobeucc73ceqlf0/original) (стр. 205–206) и [нового Belgee X50](https://cdn.perxis.ru/originals/db2g9t8beucc73boua9g/original) (стр. 118–120). Про гидротрансформатор — [брошюра Belgee X50](https://cdn.perxis.ru/originals/dapu0ugbeucc7399i5pg/original) и [Колёса.ру](https://www.kolesa.ru/news/popolnenie-v-rossiiskoi-lineike-u-krossovera-belgee-x50-poiavitsia-versiia-s-novoi-texnikoi).
 

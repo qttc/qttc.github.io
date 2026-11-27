@@ -2,7 +2,7 @@
 title: "Предохранители Geely Coolray / Belgee X50: схема блоков и расшифровка"
 layout: page
 permalink: /pages/fuses/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-27
 parent: /pages/parts/
 crumb: "Предохранители"
 faq: true
@@ -26,7 +26,7 @@ image: /assets/fuses/engine-box-scheme.png
 
 ## Как быстро найти нужный предохранитель
 
-| Не работает | Предохранитель | Блок | Ток |
+| Не работает | Номер | Блок | Ток |
 | --- | --- | --- | --- |
 | Прикуриватель (розетка 12 В) | IF19 | салон | 15 A |
 | Магнитола (ГУ, мультимедиа MMI) | IF32, IF17 | салон | 15 A, 10 A |
