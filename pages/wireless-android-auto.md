@@ -143,16 +143,16 @@ _[К оглавлению](#оглавление)_
 
 ## Частые вопросы
 
-### Нужна ли коробка Carlinkit или беспроводной адаптер?
+### <span class="faq-ico" aria-hidden="true">📦</span> Нужна ли коробка Carlinkit или беспроводной адаптер?
 Нет. Телефон подключается напрямую к точке доступа ГУ на 5 ГГц, а Android Auto принимает OH Coolray.
 
-### Подойдёт ли iPhone?
+### <span class="faq-ico" aria-hidden="true">📱</span> Подойдёт ли iPhone?
 Нет, это Android Auto. Для iPhone смотрите [CarPlay / Carlinkit](/pages/carlinkit/) и [CarPlay без донгла](/pages/carplay-no-dongle/).
 
-### Что патч меняет в системе?
+### <span class="faq-ico" aria-hidden="true">🛠️</span> Что патч меняет в системе?
 Два системных файла: `/system/bin/hostapd` и `/system/etc/wifi/bcmdhd.cal`. Оригиналы сохраняются рядом на ГУ, откат возвращает их.
 
-### Сотрёт ли патч обновление прошивки у дилера?
+### <span class="faq-ico" aria-hidden="true">🔄</span> Сотрёт ли патч обновление прошивки у дилера?
 Скорее всего, да. Тогда снова пройдите шаги 1 и 2.
 
 _[К оглавлению](#оглавление)_
