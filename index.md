@@ -2,7 +2,7 @@
 title: "Geely Coolray / Belgee X50 Wiki — прошивки, CarPlay, ТО и запчасти"
 layout: page
 permalink: /
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-27
 description: "Всё для владельцев Geely Coolray / Belgee X50 (в Китае — Geely Binyue): где скачать прошивки и как сделать откат, приложения для головного устройства, CarPlay/Carlinkit, каталоги запчастей и инструкции по типовым проблемам."
 image: /assets/logo.png
 ---
@@ -37,6 +37,7 @@ image: /assets/logo.png
 - 🔹 [Версии машины](/pages/versions/) — дорестайлинг, рестайлинг, X50+, Binyue, ревизии ГУ H30/H40/H50
 - 🔹 [Техничка](/pages/parts/) — каталоги запчастей, артикулы, полезные ссылки
   - [ТО и расходники](/pages/to/) — регламент ТО, оригинал и аналоги, комплект ГРМ
+  - [ТО рестайлинга](/pages/to-restyle/) — Coolray 2023+, X50+, Coolray 2026: жидкости и регламент
   - [Гарантия](/pages/warranty/) — сроки, условия, ТО не у дилера, прошивка ГУ
   - [Шины и диски](/pages/tires/) — размеры, разболтовка, давление, датчики TPMS
   - [Аккумулятор](/pages/battery/) — характеристики, замена, датчик IBS
