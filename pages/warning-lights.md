@@ -115,7 +115,7 @@ _[К оглавлению](#оглавление)_
 
 ## Belgee X50+ и Coolray 2026
 
-У Belgee X50+ (с весны 2026 года) и Geely Coolray 2026 приборная панель цифровая, 8,8″ ([belgee.ru](https://belgee.ru/model/belgee-x50-plus/), [Колёса.ру](https://www.kolesa.ru/test-drive/plius-odin-cilindr-minus-normalnyi-robot-test-draiv-belgee-x50)). Большая часть значков та же, что в таблицах выше, но часть выглядит иначе и добавились значки систем помощи водителю. Ниже — по [руководству Belgee X50+](https://cdn.perxis.ru/originals/d8632e8beucc73ceoa10/original) (стр. 29–32); в [руководстве Geely Coolray 2026](https://cdn.perxis.ru/originals/d8fd7tobeucc73ceqlf0/original) (стр. 30–34) таблица такая же. Чёрные значки из руководства на экране показываются белыми или чёрными — в зависимости от фона.
+У Belgee X50+ (с весны 2026 года) и Geely Coolray 2026 приборная панель цифровая, 8,8″. Большая часть значков та же, что в таблицах выше, но часть выглядит иначе и добавились значки систем помощи водителю. Ниже — по руководству Belgee X50+; в руководстве Geely Coolray 2026 таблица такая же. Чёрные значки из руководства на экране показываются белыми или чёрными — в зависимости от фона.
 
 ### Что изменилось
 
@@ -195,5 +195,10 @@ _[К оглавлению](#оглавление)_
 _[К оглавлению](#оглавление)_
 
 ------
+
+**Источники**
+
+- Руководства по эксплуатации, таблицы контрольных ламп: [Belgee X50+](https://cdn.perxis.ru/originals/d8632e8beucc73ceoa10/original), стр. 29–32; [Geely Coolray 2026](https://cdn.perxis.ru/originals/d8fd7tobeucc73ceqlf0/original), стр. 30–34.
+- Приборная панель 8,8″ у X50+: [страница модели на belgee.ru](https://belgee.ru/model/belgee-x50-plus/), [тест-драйв Колёса.ру](https://www.kolesa.ru/test-drive/plius-odin-cilindr-minus-normalnyi-robot-test-draiv-belgee-x50).
 
 [Проблемы и решения](/pages/problems/) · [Вернуться на главную](/)

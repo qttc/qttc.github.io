@@ -34,8 +34,6 @@ description: "Как отличить дорестайлинговый Geely Coo
 
 По руководству, у трёхцилиндрового мотора есть версия на 177 л. с. — её продавали за пределами России. Год 2018 в источниках — это начало выпуска в Китае; в России Coolray продают с 2020 года.
 
-Источники: руководство по эксплуатации (стр. 265), [Колёса.ру о Belgee X50](https://www.kolesa.ru/news/belorusskiy-belgee-x50-prishel-v-rf-a-originalnyy-geely-coolray-gotovitsya-k-restaylingu), [Колёса.ру о рестайлинге](https://www.kolesa.ru/news/obnovlennyy-krossover-geely-coolray-vyshel-na-rossiyskiy-rynok-chetyre-versii-drugaya-tekhnika), [«За рулём», тест 2023](https://www.zr.ru/content/articles/950389-geely-coolray-2023-test-za-rulem/), [Авто.ру, тест X50+](https://auto.ru/mag/article/plyus-odin-pervyy-test-belgee-x50-kotoryy-izmenilsya-pochti-polnostyu/), [Авто.ру о Coolray 2026](https://auto.ru/mag/article/geely-coolray-posle-obnovleniya-pervyy-test-v-tryoh-faktah/).
-
 _[К оглавлению](#оглавление)_
 
 ## Как отличить дорестайлинг от рестайлинга
@@ -52,13 +50,13 @@ _[К оглавлению](#оглавление)_
 
 Год выпуска сам по себе ничего не решает: в 2024 году продавали и Belgee X50 в старом кузове, и рестайлинговый Coolray. Смотрите на мотор, фонари и салон.
 
-**VIN** выбит на поперечине под правым передним сиденьем: сдвиньте сиденье назад и откройте крышку. Табличка с данными — на правой центральной стойке (руководство, стр. 17–18). Точную дату выпуска надёжнее смотреть в ПТС или ЭПТС.
+**VIN** выбит на поперечине под правым передним сиденьем: сдвиньте сиденье назад и откройте крышку. Табличка с данными — на правой центральной стойке. Точную дату выпуска надёжнее смотреть в ПТС или ЭПТС.
 
 _[К оглавлению](#оглавление)_
 
 ## Головное устройство: старое или новое
 
-От ГУ зависит больше всего материалов сайта. Кузов не гарантирует старое ГУ: **Belgee X50 в старом кузове с начала 2024 года выпускали уже с новым ГУ на Android 9** ([mark99](https://blog.mark99.ru/lunarisapp-dlya-belgee-x50-na-novom-gu/), [Хабр](https://habr.com/en/articles/930138), [обсуждение в чате](https://t.me/CoolRay_Android_Develop/70989/459211)). Точный месяц перехода — февраль или март 2024 года — источники называют по-разному.
+От ГУ зависит больше всего материалов сайта. Кузов не гарантирует старое ГУ: **Belgee X50 в старом кузове с начала 2024 года выпускали уже с новым ГУ на Android 9**. Точный месяц перехода — февраль или март 2024 года — источники называют по-разному.
 
 | | Старое ГУ | Новое ГУ |
 | --- | --- | --- |
@@ -74,8 +72,8 @@ _[К оглавлению](#оглавление)_
 
 По опыту владельцев:
 
-- **H30** — обычно на Coolray 2020–2021 годов. На H30 другой модуль Wi‑Fi, поэтому [беспроводной Android Auto](/pages/wireless-android-auto/) через точку доступа 5 ГГц на нём пока не работает ([обсуждение](https://t.me/CoolRay_Android_Develop/70989/464591)). Для H30 младше сборки 84 Community ставится в два шага — подробности в боте.
-- **H30.00108** — китайская прошивка у машин из Китая; Community на неё сразу не встанет ([обсуждение](https://t.me/CoolRay_Android_Develop/60762/455467)).
+- **H30** — обычно на Coolray 2020–2021 годов. На H30 другой модуль Wi‑Fi, поэтому [беспроводной Android Auto](/pages/wireless-android-auto/) через точку доступа 5 ГГц на нём пока не работает. Для H30 младше сборки 84 Community ставится в два шага — подробности в боте.
+- **H30.00108** — китайская прошивка у машин из Китая; Community на неё сразу не встанет.
 - **H40** — известна одна сборка, H40.00022; Community и откат для неё есть.
 - **H50** — обычно на Coolray 2022–2023 и Belgee X50 2023 года.
 
@@ -85,7 +83,7 @@ _[К оглавлению](#оглавление)_
 
 ## Belgee X50+ и Coolray 2026
 
-С весны 2026 года продаётся **Belgee X50+** — обновлённая машина на той же платформе, но с кузовом в стиле китайского Geely Binyue L. Почти такая же машина продаётся как **Geely Coolray** в единственной комплектации Exclusive; у Coolray отличаются спойлер и красные суппорты ([Авто.ру](https://auto.ru/mag/article/geely-coolray-posle-obnovleniya-pervyy-test-v-tryoh-faktah/)).
+С весны 2026 года продаётся **Belgee X50+** — обновлённая машина на той же платформе, но с кузовом в стиле китайского Geely Binyue L. Почти такая же машина продаётся как **Geely Coolray** в единственной комплектации Exclusive; у Coolray отличаются спойлер и красные суппорты.
 
 - Мотор — четырёхцилиндровый 1,5 л турбо: в России 147 л. с. и 270 Н·м, в Беларуси — 174 л. с.
 - Мультимедиа — экран 14,6″ на Flame OS, в базовой комплектации — 8″ с CarPlay; приборная панель 8,8″.
@@ -93,7 +91,7 @@ _[К оглавлению](#оглавление)_
 
 Прошивки и приложения с этого сайта для X50+ и Coolray 2026 **не проверялись**. Масло, жидкости и регламент ТО для 4-цилиндровых версий — на странице [ТО рестайлинга](/pages/to-restyle/).
 
-В августе 2026 года Belgee анонсировал ещё одну версию X50 — с атмосферным мотором 1,5 л на 122 л. с. и 6-ступенчатым автоматом, в размерах прежнего кузова ([Колёса.ру](https://www.kolesa.ru/news/popolnenie-v-rossiiskoi-lineike-u-krossovera-belgee-x50-poiavitsia-versiia-s-novoi-texnikoi)). Материалы сайта для неё тоже не проверялись.
+В августе 2026 года Belgee анонсировал ещё одну версию X50 — с атмосферным мотором 1,5 л на 122 л. с. и 6-ступенчатым автоматом, в размерах прежнего кузова. Материалы сайта для неё тоже не проверялись.
 
 _[К оглавлению](#оглавление)_
 
@@ -109,12 +107,10 @@ Binyue (缤越) — китайское название этой же линей
 
 Что важно владельцу китайской машины:
 
-- **Мультимедиа другая** — китайская, со своим интерфейсом. Прошивка Community, приложения и CarPlay с этого сайта рассчитаны на экспортное ГУ на Android 4.3 и для неё не годятся. Русификацию китайских ГУ делают отдельными пакетами — [пример с Binyue L на Drive2](https://www.drive2.ru/l/716869212877886712/); о регистрации китайских ГУ — в [проблемах и решениях](/pages/problems/#регистрация-китайских-гу).
+- **Мультимедиа другая** — китайская, со своим интерфейсом. Прошивка Community, приложения и CarPlay с этого сайта рассчитаны на экспортное ГУ на Android 4.3 и для неё не годятся. Русификацию китайских ГУ делают отдельными пакетами — [пример для Binyue L на Drive2](https://www.drive2.ru/l/716869212877886712/); о регистрации китайских ГУ — в [проблемах и решениях](/pages/problems/#регистрация-китайских-гу).
 - **Двигатель зависит от версии.** У дорестайлингового Binyue бывает тот же трёхцилиндровый 1,5 л, что у наших машин, но бывали и 1,4 л; Binyue Cool и Binyue L идут с четырёхцилиндровым 1,5 л — объёмы масла и расходники у него другие.
-- **GPS** у китайских машин стоит в блоке T-Box, а не в ГУ ([обсуждение](https://t.me/CoolRay_Android_Develop/60762/455467)).
+- **GPS** у китайских машин стоит в блоке T-Box, а не в ГУ.
 - **Артикулы и предохранители** сверяйте по VIN и по схеме на крышке блока: китайская комплектация может отличаться.
-
-Источники: [Geely Binyue в Википедии](https://en.wikipedia.org/wiki/Geely_Binyue), [Proton X50 в Википедии](https://en.wikipedia.org/wiki/Proton_X50), [Колёса.ру о Binyue](https://www.kolesa.ru/news/prezhniy-geely-coolray-poluchil-portsiyu-obnovok-i-stal-moshchnee).
 
 _[К оглавлению](#оглавление)_
 
@@ -138,5 +134,13 @@ _[К оглавлению](#оглавление)_
 _[К оглавлению](#оглавление)_
 
 ------
+
+**Источники**
+
+- Руководство по эксплуатации Geely Coolray: версия мотора на 177 л. с. — стр. 265; VIN и табличка с данными — стр. 17–18.
+- Статьи о моделях: [Колёса.ру о Belgee X50](https://www.kolesa.ru/news/belorusskiy-belgee-x50-prishel-v-rf-a-originalnyy-geely-coolray-gotovitsya-k-restaylingu); [Колёса.ру о рестайлинге](https://www.kolesa.ru/news/obnovlennyy-krossover-geely-coolray-vyshel-na-rossiyskiy-rynok-chetyre-versii-drugaya-tekhnika); [«За рулём», тест Coolray 2023](https://www.zr.ru/content/articles/950389-geely-coolray-2023-test-za-rulem/); [Авто.ру, тест X50+](https://auto.ru/mag/article/plyus-odin-pervyy-test-belgee-x50-kotoryy-izmenilsya-pochti-polnostyu/); [Авто.ру о Coolray 2026](https://auto.ru/mag/article/geely-coolray-posle-obnovleniya-pervyy-test-v-tryoh-faktah/) — в том числе отличия от X50+; [Колёса.ру об атмосферном Belgee X50](https://www.kolesa.ru/news/popolnenie-v-rossiiskoi-lineike-u-krossovera-belgee-x50-poiavitsia-versiia-s-novoi-texnikoi).
+- Новое ГУ на Android 9 у Belgee X50 с 2024 года: [mark99](https://blog.mark99.ru/lunarisapp-dlya-belgee-x50-na-novom-gu/), [Хабр](https://habr.com/en/articles/930138).
+- Geely Binyue: [Geely Binyue в Википедии](https://en.wikipedia.org/wiki/Geely_Binyue), [Proton X50 в Википедии](https://en.wikipedia.org/wiki/Proton_X50), [Колёса.ру о Binyue](https://www.kolesa.ru/news/prezhniy-geely-coolray-poluchil-portsiyu-obnovok-i-stal-moshchnee).
+- Опыт владельцев в чате: [новое ГУ на X50 с начала 2024](https://t.me/CoolRay_Android_Develop/70989/459211); [беспроводной Android Auto на H30](https://t.me/CoolRay_Android_Develop/70989/464591); [китайская прошивка H30.00108 и GPS в T-Box](https://t.me/CoolRay_Android_Develop/60762/455467).
 
 [Прошивка Community](/pages/community/) · [Вернуть заводскую прошивку](/pages/rollback/) · [Вернуться на главную](/)
