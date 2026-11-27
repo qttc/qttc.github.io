@@ -63,8 +63,6 @@ image: /assets/to-bhe15/to-card-x50plus.jpg
 
 Антифриз — на основе этиленгликоля, одобренный Geely (у Belgee — сертифицированный Belgee). Омывающая жидкость у Coolray 2023 — до −25 °C. Бак у всех 45 л.
 
-Источники: руководство по эксплуатации Coolray 2023 ([PDF](https://cdn.perxis.ru/originals/d1elmp8beucc73er1hd0/original)), стр. 231; Coolray 2026 ([PDF](https://cdn.perxis.ru/originals/d8fd7tobeucc73ceqlf0/original)), стр. 207; Belgee X50+ ([PDF](https://cdn.perxis.ru/originals/d8632e8beucc73ceoa10/original)), стр. 180; нового Belgee X50 ([PDF](https://cdn.perxis.ru/originals/db2g9t8beucc73boua9g/original)), стр. 120.
-
 ![Таблица жидкостей и заправочных объёмов из руководства Geely Coolray 2023: масло 4,3 л, антифриз 6,2 л, HDCTF 3,3 л, DOT4 780 мл, R134a 500 г](/assets/to-bhe15/fluids-coolray-2023.jpg){: width="765" height="1086" loading="lazy"}
 
 _Таблица из [руководства по эксплуатации Geely Coolray 2023](https://cdn.perxis.ru/originals/d1elmp8beucc73er1hd0/original), стр. 231._
@@ -163,5 +161,10 @@ API SP с вязкостью 0W-20. У атмосферного Belgee X50 2026 
 _[К оглавлению](#оглавление)_
 
 ------
+
+**Источники**
+
+- Руководства по эксплуатации, таблица жидкостей: [Coolray 2023](https://cdn.perxis.ru/originals/d1elmp8beucc73er1hd0/original), стр. 231; [Coolray 2026](https://cdn.perxis.ru/originals/d8fd7tobeucc73ceqlf0/original), стр. 207; [Belgee X50+](https://cdn.perxis.ru/originals/d8632e8beucc73ceoa10/original), стр. 180; [Belgee X50 2026](https://cdn.perxis.ru/originals/db2g9t8beucc73boua9g/original), стр. 120.
+- Карты технического обслуживания: [Geely](https://cdn.perxis.ru/originals/da45sm8beucc7399alvg/original) (Coolray SX11-A5 — стр. 1–2, SX11-A3 — стр. 18); [Belgee](https://cdn.perxis.ru/originals/d76hiugbeucc73cefk60/original) (X50+ — стр. 4).
 
 [Все запчасти и каталоги](/pages/parts/) · [Вернуться на главную](/)
