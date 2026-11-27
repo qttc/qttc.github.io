@@ -57,21 +57,16 @@ _[К оглавлению](#оглавление)_
 
 | Масло | Артикул |
 | --- | --- |
-| Lopal 1 Advanced Fully Synthetic Series SP 0W-20, 1 л | LP0W20AFS1L |
-| Lopal 1 Advanced Fully Synthetic Series SP 0W-20, 4 л | LP0W20AFS4L |
-| Valvoline SYNPOWER FE 0W-20, 5 л | 872584 |
-| Valvoline SYNPOWER FE 0W-20, 1 л | 872583 |
-| MANNOL LEGEND FORMULA C5 0W-20, 5 л и 1 л | MN7921-5 и MN7921-1 |
-| Petrol Ofisi MAXIMA HYBRID 0W-20, 4 л | 400000419 |
-| G-Energy Synthetic Eco Life 0W-20, 1 л | 253140709 |
-| G-Energy Synthetic Eco Life 0W-20, 4 л | 253140711 |
-| Liqui Moly SPECIAL TEC V 0W-20, 5 л | 20632 |
-| Liqui Moly SPECIAL TEC V 0W-20, 1 л | 20631 |
-| Bardahl XTEC 0W-20 V, 5 л | 36813 |
-| Bardahl XTEC 0W-20 V, 1 л | 36811 |
-| RAVENOL EFS 0W-20, 4 л | 1111105 |
-| RAVENOL EHS 0W-20, 4 л | 1111113 |
-| LUKOIL GENESIS SPECIAL VL 0W-20, 1 л | 1702475 |
+| Lopal 1 Advanced Fully Synthetic Series SP 0W-20 | 1 л — LP0W20AFS1L; 4 л — LP0W20AFS4L |
+| Valvoline SYNPOWER FE 0W-20 | 1 л — 872583; 5 л — 872584 |
+| MANNOL LEGEND FORMULA C5 0W-20 | 1 л — MN7921-1; 5 л — MN7921-5 |
+| Petrol Ofisi MAXIMA HYBRID 0W-20 | 4 л — 400000419 |
+| G-Energy Synthetic Eco Life 0W-20 | 1 л — 253140709; 4 л — 253140711 |
+| Liqui Moly SPECIAL TEC V 0W-20 | 1 л — 20631; 5 л — 20632 |
+| Bardahl XTEC 0W-20 V | 1 л — 36811; 5 л — 36813 |
+| RAVENOL EFS 0W-20 | 4 л — 1111105 |
+| RAVENOL EHS 0W-20 | 4 л — 1111113 |
+| LUKOIL GENESIS SPECIAL VL 0W-20 | 1 л — 1702475 |
 
 _[К оглавлению](#оглавление)_
 
