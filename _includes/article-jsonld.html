@@ -1,0 +1,9 @@
+{% comment %}Article для «Контентной аналитики» Метрики: без ключа text она берёт текст элемента по якорю из @id (#content = <main>).{% endcomment %}
+{% assign art_url = page.url | absolute_url | append: "#content" %}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Article","@id":{{ art_url | jsonify }},"url":{{ art_url | jsonify }},
+ "headline":{{ page.title | jsonify }},{% if page.description %}"description":{{ page.description | jsonify }},{% endif %}
+ {% if page.last_modified_at %}"dateModified":{{ page.last_modified_at | date_to_xmlschema | jsonify }},{% endif %}
+ "inLanguage":"ru","author":{"@type":"Organization","name":{{ site.author | jsonify }},"url":{{ '/' | absolute_url | jsonify }}},
+ "mainEntityOfPage":{{ page.url | absolute_url | jsonify }}}
+</script>

@@ -28,6 +28,7 @@
     {% if page.url != "/" %}{% include breadcrumbs.html nav=nav %}{% endif %}
     {{ content }}
     {% if page.faq %}{% include faq-jsonld.html html=content %}{% endif %}
+    {% if page.url != "/" and page.sitemap != false %}{% include article-jsonld.html %}{% endif %}
   </main>
 
   <footer class="site-footer">
