@@ -1,0 +1,10 @@
+---
+layout: null
+sitemap: false
+permalink: /sitemap.txt
+---
+{%- comment -%}Текстовая карта сайта для GSC: sitemap.xml там с 30.10 «Не получено».{%- endcomment -%}
+{%- assign pages = site.html_pages | where_exp: "p", "p.sitemap != false" | sort: "url" -%}
+{%- for p in pages -%}
+{{ p.url | absolute_url }}
+{% endfor -%}
